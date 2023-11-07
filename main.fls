@@ -156,12 +156,12 @@ INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/ts1txr.fd
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/ts1txr.fd
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/tcxr.tfm
-INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/public/txfonts/tcxr.vf
-INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtcxr.tfm
 INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT main.bbl
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txb.tfm
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/public/txfonts/tcxr.vf
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtcxr.tfm
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/public/txfonts/txb.vf
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxptmb.tfm
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxb.tfm
