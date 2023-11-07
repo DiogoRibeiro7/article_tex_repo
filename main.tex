@@ -57,16 +57,52 @@ Fuller et al. (2020) discuss the relationship between housing prices, wealth ind
 Johnes and Hyclak (1999) related average industry wages, unemployment rates, workforce strength, and average house prices in urban areas, finding interplays between local housing and labor markets, with unemployment and workforce strength affecting house prices in specific U.S. regions.
 These insights collectively formulate research hypotheses investigating the relationship between population density, purchasing power, family size, and unemployment with housing values, providing a multifaceted view of the housing market's undercurrents.
 
-This review synthesizes findings from multiple studies on the impact of external factors on real estate values. Xiao et al. (2020) employed a hedonic pricing model and spatial econometric model, finding that noisy public square dancing in Hangzhou, China, depreciates nearby housing prices by 5.8% to 13%. In contrast, Zambrano-Monserrate's (2016) study in Machala, Ecuador, emphasized the significance of public services like water supply and waste collection for rental apartment markets. In Madrid, Chasco Yrigoyen and Sánchez Reyes (2012) observed that air pollution negatively affects housing prices across all quantiles, with noise pollution only impacting luxury homes' prices. Fitch Osuna et al. (2013) explored real estate dynamics in San Nicolás de los Garza, Mexico, noting an increase in housing prices in noisier areas, suggesting demographic and location preferences outweigh other factors.
-Ermisch (1996) highlighted the implications of aging demographics on housing demand in Britain, suggesting a substantial slowdown in growth rates due to population aging. Bayet et al. (1991) placed housing expenses as a primary concern for younger and older age groups in family budgets. Eichholtz and Lindenthal (2014) attributed high education, good health, and high income to sustained housing demand among aging populations in Europe. Conversely, Brasington et al. (2015) and Gyourko & Linneman (1996) found that higher educational attainment increases housing demand, suggesting a strong correlation between market values and educational levels.
+This review synthesizes findings from multiple studies on the impact of external factors on real estate values. Xiao et al. (2020) employed a hedonic pricing model and spatial econometric model, finding that noisy public square dancing in Hangzhou, China, depreciates nearby housing prices by 5.8\% to 13\%. In contrast, Zambrano-Monserrate's (2016) study in Machala, Ecuador, emphasized the significance of public services like water supply and waste collection for rental apartment markets. In Madrid, Chasco Yrigoyen and Sánchez Reyes (2012) observed that air pollution negatively affects housing prices across all quantiles, with noise pollution only impacting luxury homes' prices. Fitch Osuna et al. (2013) explored real estate dynamics in San Nicolás de los Garza, Mexico, noting an increase in housing prices in noisier areas, suggesting demographic and location preferences outweigh other factors.
+Ermisch (1996) highlighted the implications of aging demographics on housing demand in Britain, suggesting a substantial slowdown in growth rates due to population aging. Bayet et al. (1991) placed housing expenses as a primary concern for younger and older age groups in family budgets. Eichholtz and Lindenthal (2014) attributed high education, good health, and high income to sustained housing demand among aging populations in Europe. Conversely, Brasington et al. (2015) and Gyourko \& Linneman (1996) found that higher educational attainment increases housing demand, suggesting a strong correlation between market values and educational levels.
 These diverse studies collectively support the hypothesis that environmental quality, demographic shifts, and educational levels significantly influence housing values. This integration of global research presents a nuanced understanding of real estate economics, highlighting the complex interplay between urban externalities and market behaviors.
-In his research conducted in China, Xu (2017) indicates that when the housing supply is at or near maximum capacity, there is increased pressure on supply, which can indeed drive up home prices. Katz and Rosen (1987) empirically demonstrated, using a large dataset on housing in the San Francisco Bay Area of California, that construction levies appear to have a significant impact on home prices. Their regression model's results suggest that home prices are between 17% and 38% higher in communities where growth moratoria and/or growth control plans are in place. The widespread use of such fees, in many communities, restricts the available supply response. The spread of these growth regulatory techniques to metropolitan areas outside California may have substantial negative effects on housing affordability (Katz and Rosen 1987). Consequently, the following research hypothesis can be considered:
+In his research conducted in China, Xu (2017) indicates that when the housing supply is at or near maximum capacity, there is increased pressure on supply, which can indeed drive up home prices. Katz and Rosen (1987) empirically demonstrated, using a large dataset on housing in the San Francisco Bay Area of California, that construction levies appear to have a significant impact on home prices. Their regression model's results suggest that home prices are between 17\% and 38\% higher in communities where growth moratoria and/or growth control plans are in place. The widespread use of such fees, in many communities, restricts the available supply response. The spread of these growth regulatory techniques to metropolitan areas outside California may have substantial negative effects on housing affordability (Katz and Rosen 1987).
 
+\section{Theoretical Framework for Multivariate Linear Regression Using Ordinary Least Squares}
+
+\subsection{Ordinary Least Squares Estimation}
+The Ordinary Least Squares (OLS) estimation technique is the cornerstone for conducting multivariate linear regression analysis. It estimates the parameters of a linear model that predicts a single response variable from multiple explanatory variables. The primary goal is to minimize the sum of the squares of the differences between the observed dependent variable and those predicted by the linear model.
+
+\subsection{Model Specification}
+The general form of the multivariate linear regression model is expressed as:
+\begin{equation}
+    \mathbf{Y} = \mathbf{X\beta} + \boldsymbol{\epsilon}
+\end{equation}
+where $\mathbf{Y}$ is an $n \times 1$ vector of the dependent variable, $\mathbf{X}$ is an $n \times k$ matrix of independent variables for $n$ observations across $k$ predictors, $\boldsymbol{\beta}$ is a $k \times 1$ vector of regression coefficients to be estimated, and $\boldsymbol{\epsilon}$ is an $n \times 1$ vector of the residuals or errors of the model.
+
+\subsection{Estimation and Properties}
+The OLS estimator is given by:
+\begin{equation}
+    \hat{\boldsymbol{\beta}} = (\mathbf{X'X})^{-1}\mathbf{X'Y}
+\end{equation}
+This estimator is known to be the Best Linear Unbiased Estimator (BLUE), provided that the Gauss-Markov theorem's assumptions are satisfied. These include the absence of perfect multicollinearity, homoscedasticity, and uncorrelated error terms with a zero conditional mean.
+
+\subsection{Goodness-of-Fit}
+The fit of the regression model is usually quantified by the coefficient of determination $R^2$, and the adjusted $R^2$ which provides a measure adjusted for the number of predictors. An F-test is used to determine the overall significance of the model parameters.
+
+\subsection{Assumptions Verification}
+Verifying the assumptions underlying the OLS estimator is crucial for the reliability of the model. This involves the examination of residuals for normality, constant variance (homoscedasticity), and independence. The Variance Inflation Factor (VIF) is used to assess the degree of multicollinearity among predictors.
+
+\subsection{Generalization to Other Models}
+While OLS is traditionally applied to continuous and normally distributed response variables, the regression framework can be extended to models with non-normal response distributions or non-linear relationships. Such generalizations are termed Generalized Linear Models (GLM), which accommodate various types of data by linking a function of the mean of the response variable to the linear predictor through a link function.
+
+The GLM is expressed as:
+\begin{equation}
+    g(\mathbb{E}[\mathbf{Y}]) = \mathbf{X}\bm{\beta}
+\end{equation}
+where \(g(\cdot)\) is a monotonic and differentiable link function. This broadens the scope of regression analysis to include binary, count, and other types of outcomes by using appropriate link functions and distributional assumptions.
+
+\subsection{Implications}
+The interpretation of estimated coefficients in the context of GLMs must account for the link function used. For instance, in logistic regression—a special case of GLM with a binary outcome—the coefficients represent the log odds of the outcome per unit change in the predictor, holding other predictors constant. As with OLS, the accurate interpretation of these models necessitates careful consideration of model assumptions and potential estimation biases.
 
 
 % Head 2
-\subsection{\uppercase{Data and Results}}
-\subsubsection{Data}
+\section{\uppercase{Data and Results}}
+\subsection{Data}
 The population dynamics of Portugal, as reported by the National Statistics Institute (INE) in 2017, reveal a gendered count of 10,291,027 with a declining trend since 2010, slightly mitigated in recent years. An aging demographic is evident with a rise in the median age from 42.7 to 44.2 years between 2012 and 2017. 
 
 This study utilizes data from the PORDATA database, specifically from the year 2017, which is the latest available year for most variables relevant to the research literature. Data covers all 308 municipalities in Portugal, including mainland Portugal, the Autonomous Region of the Azores, and the Autonomous Region of Madeira. The data's spatial distribution is summarized as follows:
@@ -150,7 +186,7 @@ All variables, except location (NUTS I, II, and III), are continuous quantitativ
 
 
 
-\subsubsection{Factors that affect the value of housing in Portugal}
+\subsection{Factors that affect the value of housing in Portugal}
 
 \begin{itemize}
     \item Segundo modelo de regressão
@@ -159,7 +195,7 @@ All variables, except location (NUTS I, II, and III), are continuous quantitativ
 
 
 % Sections that will go in second font
-\subsection{\uppercase{Conclusions}}
+\section{\uppercase{Conclusions}}
 
 The analysis presented in this paper provides a detailed exploration of the factors influencing housing prices across municipalities in Portugal, with a distinct emphasis on the period of transition from growth to stabilization in 2017. Through a refined multiple linear regression approach, we have delineated the impact of geographical, demographic, economic, and educational variables on property values within local contexts.
 Our findings reveal a pronounced geographic determinant in housing valuation, asserting the premium placed on coastal and urban locations. The size of the average household emerges as a significant predictor, reflecting the market's response to family housing demands. Economic health, as measured by local unemployment rates, exhibits a predictable yet critical inverse correlation with housing prices, indicating the sensitivity of the real estate market to job availability. Moreover, the positive association between educational levels and housing prices emphasizes the value attributed to intellectual capital in residential desirability.

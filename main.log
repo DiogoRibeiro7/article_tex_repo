@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.11.6)  7 NOV 2023 15:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.11.6)  7 NOV 2023 17:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -225,84 +225,72 @@ LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <9> not available
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 39.
  [1{/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}]
-/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:61: Misplaced alignment tab character &.
-l.61 ...ly, Brasington et al. (2015) and Gyourko &
-                                                   Linneman (1996) found tha...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5637) has occurred while \output is active []
 
  [2]
-/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:77: Undefined control sequence.
-l.77 \toprule
-             
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:73: Undefined control sequence.
+l.73 ...\mathbf{Y} = \mathbf{X\beta} + \boldsymbol
+                                                  {\epsilon}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:79: Undefined control sequence.
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:75: Undefined control sequence.
+<recently read> \boldsymbol 
+                            
+l.75 ...ations across $k$ predictors, $\boldsymbol
+                                                  {\beta}$ is a $k \times 1$...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:75: Undefined control sequence.
+<recently read> \boldsymbol 
+                            
+l.75 ...ficients to be estimated, and $\boldsymbol
+                                                  {\epsilon}$ is an $n \time...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:80: Undefined control sequence.
+l.80     \hat{\boldsymbol
+                         {\beta}} = (\mathbf{X'X})^{-1}\mathbf{X'Y}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:95: Undefined control sequence.
+l.95     g(\mathbb{E}[\mathbf{Y}]) = \mathbf{X}\bm
+                                                  {\beta}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[3]
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:113: Undefined control sequence.
+l.113 \toprule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:115: Undefined control sequence.
 <recently read> \midrule 
                          
-l.79 \midrule
-             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:84: Undefined control sequence.
-<recently read> \bottomrule 
-                            
-l.84 \bottomrule
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:97: Undefined control sequence.
-l.97 \toprule
-             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:99: Undefined control sequence.
-<recently read> \midrule 
-                         
-l.99 \midrule
-             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:108: Undefined control sequence.
-<recently read> \bottomrule 
-                            
-l.108 \bottomrule
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:118: Undefined control sequence.
-l.118 \toprule
+l.115 \midrule
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -311,20 +299,9 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 /Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:120: Undefined control sequence.
-<recently read> \midrule 
-                         
-l.120 \midrule
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:132: Undefined control sequence.
 <recently read> \bottomrule 
                             
-l.132 \bottomrule
+l.120 \bottomrule
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -332,13 +309,78 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 156.
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:133: Undefined control sequence.
+l.133 \toprule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:135: Undefined control sequence.
+<recently read> \midrule 
+                         
+l.135 \midrule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:144: Undefined control sequence.
+<recently read> \bottomrule 
+                            
+l.144 \bottomrule
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:154: Undefined control sequence.
+l.154 \toprule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:156: Undefined control sequence.
+<recently read> \midrule 
+                         
+l.156 \midrule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:168: Undefined control sequence.
+<recently read> \bottomrule 
+                            
+l.168 \bottomrule
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 192.
 (/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
-) [3] (main.bbl
+) [4] (main.bbl
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 58.
- [4]
+ [5]
 main.bbl:213: Undefined control sequence.
 <argument> \urlprefix 
                       
@@ -3687,7 +3729,7 @@ l.490 \end{thebibliography}
                            %
 Things are pretty mixed up, but I think the worst is over.
 
-) [5] (main.aux
+) [6] (main.aux
 
 Package natbib Warning: Citation(s) may have changed.
 (natbib)                Rerun to get citations correct.
@@ -3703,17 +3745,17 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 3358 strings out of 474824
- 50237 string characters out of 5739210
- 1938040 words of memory out of 5000000
- 25273 multiletter control sequences out of 15000+600000
- 594335 words of font info for 118 fonts, out of 8000000 for 9000
+ 3363 strings out of 474824
+ 50335 string characters out of 5739210
+ 1940040 words of memory out of 5000000
+ 25278 multiletter control sequences out of 15000+600000
+ 595513 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,79p,992b,272s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtcxr.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxi.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxmi.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxr.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/txsy.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (5 pages, 90062 bytes).
+ 72i,11n,79p,994b,264s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtcxr.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxb.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxmi.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxr.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/txsy.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/txsyb.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (6 pages, 99903 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
