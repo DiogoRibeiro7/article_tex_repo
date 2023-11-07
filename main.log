@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.11.6)  7 NOV 2023 10:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.11.6)  7 NOV 2023 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/diogoribeiro/work_code/personal/article_tex/main.tex
-(/Users/diogoribeiro/work_code/personal/article_tex/main.tex
+**/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex
+(/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
 (aip-cp.cls
@@ -225,37 +225,3646 @@ LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <9> not available
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 39.
  [1{/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 59.
-
-
-Package natbib Warning: Citation `Reference1' on page 2 undefined on input line 59.
-
 LaTeX Font Info:    Trying to load font information for TS1+txr on input line 66.
-(/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/ts1txr.fd
+ (/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
-) [2] (main.bbl)
+) [2] (main.bbl
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 64.
+ [3]
+main.bbl:267: Undefined control sequence.
+<argument> \urlprefix 
+                      
+l.267 .../UCM/uuid/dDocName:PR_WCS01_UCM01061085}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Package natbib Warning: There were undefined citations.
+main.bbl:267: Undefined control sequence.
+\@@href #1->\endgroup #1\@@endlink 
+                                   
+l.267 .../UCM/uuid/dDocName:PR_WCS01_UCM01061085}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-[3] (main.aux)
+
+main.bbl:271: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.271 ...mefont {Regan}(2020)}]{fuller2020housing}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:271: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2020}{{\citenamefont 
+                                                  {Fuller}, \citenamefont {J...
+l.271 ...mefont {Regan}(2020)}]{fuller2020housing}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:271: Undefined control sequence.
+<write> ...{\citenamefont {Fuller}, \citenamefont 
+                                                  {Johnston},\ and\^^M\citen...
+l.271 ...mefont {Regan}(2020)}]{fuller2020housing}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:271: Undefined control sequence.
+<write> ...font {Johnston},\ and\^^M\citenamefont 
+                                                  {Regan}}}{{}}}
+l.271 ...mefont {Regan}(2020)}]{fuller2020housing}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:273: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {G.~W.}\ \bibnamefont {Fuller}
+l.273 ...fnamefont {G.~W.}\ \bibnamefont {Fuller}}
+                                                  , \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:273: Undefined control sequence.
+<argument> \bibfnamefont {G.~W.}\ \bibnamefont 
+                                               {Fuller}
+l.273 ...fnamefont {G.~W.}\ \bibnamefont {Fuller}}
+                                                  , \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:274: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {A.}~\bibnamefont {Johnston}
+l.274 ...ibfnamefont {A.}~\bibnamefont {Johnston}}
+                                                  , \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:274: Undefined control sequence.
+<argument> \bibfnamefont {A.}~\bibnamefont 
+                                           {Johnston}
+l.274 ...ibfnamefont {A.}~\bibnamefont {Johnston}}
+                                                  , \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:275: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {A.}~\bibnamefont {Regan}
+l.275 ...{\bibfnamefont {A.}~\bibnamefont {Regan}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:275: Undefined control sequence.
+<argument> \bibfnamefont {A.}~\bibnamefont 
+                                           {Regan}
+l.275 ...{\bibfnamefont {A.}~\bibnamefont {Regan}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:276: Undefined control sequence.
+l.276   }\enquote
+                  {\bibinfo {title} {Housing prices and wealth inequality in...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:277: Undefined control sequence.
+l.277   europe},}\ ,\ \href
+                           @noop {} {\bibfield  {journal} {\bibinfo  {journa...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:281: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.281   {Smith}(2010)}]{archer2010ownership}
+                                            %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:281: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2010}{{\citenamefont 
+                                                  {Archer}, \citenamefont {L...
+l.281   {Smith}(2010)}]{archer2010ownership}
+                                            %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:281: Undefined control sequence.
+<write> ...{\citenamefont {Archer}, \citenamefont 
+                                                  {Ling},\ and\ \citenamefon...
+l.281   {Smith}(2010)}]{archer2010ownership}
+                                            %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:281: Undefined control sequence.
+<write> ...tenamefont {Ling},\ and\ \citenamefont 
+                                                  {Smith}}}{{}}}
+l.281   {Smith}(2010)}]{archer2010ownership}
+                                            %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:283: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {W.~R.}\ \bibnamefont {Archer}
+l.283 ...fnamefont {W.~R.}\ \bibnamefont {Archer}}
+                                                  , \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:283: Undefined control sequence.
+<argument> \bibfnamefont {W.~R.}\ \bibnamefont 
+                                               {Archer}
+l.283 ...fnamefont {W.~R.}\ \bibnamefont {Archer}}
+                                                  , \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:284: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {D.~C.}\ \bibnamefont {Ling}
+l.284 ...ibfnamefont {D.~C.}\ \bibnamefont {Ling}}
+                                                  , \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:284: Undefined control sequence.
+<argument> \bibfnamefont {D.~C.}\ \bibnamefont 
+                                               {Ling}
+l.284 ...ibfnamefont {D.~C.}\ \bibnamefont {Ling}}
+                                                  , \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:285: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {B.~C.}\ \bibnamefont {Smith}
+l.285 ...bfnamefont {B.~C.}\ \bibnamefont {Smith}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:285: Undefined control sequence.
+<argument> \bibfnamefont {B.~C.}\ \bibnamefont 
+                                               {Smith}
+l.285 ...bfnamefont {B.~C.}\ \bibnamefont {Smith}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:286: Undefined control sequence.
+l.286   }\enquote
+                  {\bibinfo {title} {Ownership duration in the residential h...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:288: Undefined control sequence.
+l.288   factors},}\ ,\ \href
+                            @noop {} {\bibfield  {journal} {\bibinfo  {journ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:293: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.293   {Hyclak}(1999)}]{johnes1999house}
+                                         %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:293: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{1999}{{\citenamefont 
+                                                  {Johnes}\ and\ \citenamefo...
+l.293   {Hyclak}(1999)}]{johnes1999house}
+                                         %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:293: Undefined control sequence.
+<write> ...enamefont {Johnes}\ and\ \citenamefont 
+                                                  {Hyclak}}}{{}}}
+l.293   {Hyclak}(1999)}]{johnes1999house}
+                                         %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:295: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {G.}~\bibnamefont {Johnes}
+l.295 ...\bibfnamefont {G.}~\bibnamefont {Johnes}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:295: Undefined control sequence.
+<argument> \bibfnamefont {G.}~\bibnamefont 
+                                           {Johnes}
+l.295 ...\bibfnamefont {G.}~\bibnamefont {Johnes}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:296: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {T.}~\bibnamefont {Hyclak}
+l.296 ...\bibfnamefont {T.}~\bibnamefont {Hyclak}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:296: Undefined control sequence.
+<argument> \bibfnamefont {T.}~\bibnamefont 
+                                           {Hyclak}
+l.296 ...\bibfnamefont {T.}~\bibnamefont {Hyclak}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:297: Undefined control sequence.
+l.297   }\enquote
+                  {\bibinfo {title} {House prices and regional labor markets...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:298: Undefined control sequence.
+l.298   \href
+             @noop {} {\bibfield  {journal} {\bibinfo  {journal} {The Annals of
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:301: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.301 ...efont {Robson}(2003)}]{robson2003housing}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:301: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2003}{{\citenamefont 
+                                                  {Robson}}}{{}}}
+l.301 ...efont {Robson}(2003)}]{robson2003housing}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:303: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {M.~T.}\ \bibnamefont {Robson}
+l.303 ...fnamefont {M.~T.}\ \bibnamefont {Robson}}
+                                                  \bibfield
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:303: Undefined control sequence.
+<argument> \bibfnamefont {M.~T.}\ \bibnamefont 
+                                               {Robson}
+l.303 ...fnamefont {M.~T.}\ \bibnamefont {Robson}}
+                                                  \bibfield
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:304: Undefined control sequence.
+l.304   {author} {  }\enquote
+                              {\bibinfo {title} {Housing markets and regional
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:305: Undefined control sequence.
+l.305 ...yment flows in great britain},}\ ,\ \href
+                                                  @noop {} {\bibfield
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:310: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.310   {McGuire}(2004)}]{borio2004twin}
+                                        %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:310: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2004}{{\citenamefont 
+                                                  {Borio}\ and\ \citenamefon...
+l.310   {McGuire}(2004)}]{borio2004twin}
+                                        %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:310: Undefined control sequence.
+<write> ...tenamefont {Borio}\ and\ \citenamefont 
+                                                  {McGuire}}}{{}}}
+l.310   {McGuire}(2004)}]{borio2004twin}
+                                        %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:312: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {C.~E.}\ \bibnamefont {Borio}
+l.312 ...bfnamefont {C.~E.}\ \bibnamefont {Borio}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:312: Undefined control sequence.
+<argument> \bibfnamefont {C.~E.}\ \bibnamefont 
+                                               {Borio}
+l.312 ...bfnamefont {C.~E.}\ \bibnamefont {Borio}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:313: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {P.}~\bibnamefont {McGuire}
+l.313 ...bibfnamefont {P.}~\bibnamefont {McGuire}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:313: Undefined control sequence.
+<argument> \bibfnamefont {P.}~\bibnamefont 
+                                           {McGuire}
+l.313 ...bibfnamefont {P.}~\bibnamefont {McGuire}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:314: Undefined control sequence.
+l.314   }\enquote
+                  {\bibinfo {title} {Twin peaks in equity and housing prices...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:315: Undefined control sequence.
+l.315   \href
+             @noop {} {\bibfield  {journal} {\bibinfo  {journal} {BIS Quarterly
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:317: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.317 ...onserrate}(2016)}]{zambrano2016formacion}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:317: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2016}{{\citenamefont 
+                                                  {Zambrano-Monserrate}}}{{}}}
+l.317 ...onserrate}(2016)}]{zambrano2016formacion}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:320: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {M.~A.}\ \bibnamefont {Zambrano-Monserrate}
+l.320   {Zambrano-Monserrate}}
+                              \bibfield  {author} {  }\enquote {\bibinfo {ti...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:320: Undefined control sequence.
+<argument> \bibfnamefont {M.~A.}\ \bibnamefont 
+                                               {Zambrano-Monserrate}
+l.320   {Zambrano-Monserrate}}
+                              \bibfield  {author} {  }\enquote {\bibinfo {ti...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:320: Undefined control sequence.
+l.320 ...serrate}}\bibfield  {author} {  }\enquote
+                                                   {\bibinfo {title}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:323: Undefined control sequence.
+l.323   \href
+             @noop {} {\bibfield  {journal} {\bibinfo  {journal} {Cuadernos de
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:327: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.327 ...~Reyes}(2012)}]{chasco2012externalidades}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:327: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2012}{{\citenamefont 
+                                                  {Chasco~Yrigoyen}\ and\ \c...
+l.327 ...~Reyes}(2012)}]{chasco2012externalidades}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:327: Undefined control sequence.
+<write> ... {Chasco~Yrigoyen}\ and\ \citenamefont 
+                                                  {S{\'a}nchez~Reyes}}}{{}}}
+l.327 ...~Reyes}(2012)}]{chasco2012externalidades}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:329: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {C.}~\bibnamefont {Chasco~Yrigoyen}
+l.329 ...font {C.}~\bibnamefont {Chasco~Yrigoyen}}
+                                                  \ and\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:329: Undefined control sequence.
+<argument> \bibfnamefont {C.}~\bibnamefont 
+                                           {Chasco~Yrigoyen}
+l.329 ...font {C.}~\bibnamefont {Chasco~Yrigoyen}}
+                                                  \ and\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:331: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {B.}~\bibnamefont {S{\'a}nchez~Reyes}
+l.331   {S{\'a}nchez~Reyes}}
+                            \bibfield  {author} {  }\enquote {\bibinfo {title}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:331: Undefined control sequence.
+<argument> \bibfnamefont {B.}~\bibnamefont 
+                                           {S{\'a}nchez~Reyes}
+l.331   {S{\'a}nchez~Reyes}}
+                            \bibfield  {author} {  }\enquote {\bibinfo {title}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:331: Undefined control sequence.
+l.331 ...z~Reyes}}\bibfield  {author} {  }\enquote
+                                                   {\bibinfo {title}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:333: Undefined control sequence.
+l.333 ...o}n cuant{\'\i}lica espacial},}\ ,\ \href
+                                                  @noop {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:338: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.338 ...rza~Mendiola}(2013)}]{fitch2013valuacion}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:338: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2013}{{\citenamefont 
+                                                  {Fitch~Osuna}, \citenamefo...
+l.338 ...rza~Mendiola}(2013)}]{fitch2013valuacion}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:338: Undefined control sequence.
+<write> ...enamefont {Fitch~Osuna}, \citenamefont 
+                                                  {Soto~Canales},\ and\^^M\c...
+l.338 ...rza~Mendiola}(2013)}]{fitch2013valuacion}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:338: Undefined control sequence.
+<write> ... {Soto~Canales},\ and\^^M\citenamefont 
+                                                  {Garza~Mendiola}}}{{}}}
+l.338 ...rza~Mendiola}(2013)}]{fitch2013valuacion}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:340: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {J.~M.}\ \bibnamefont {Fitch~Osuna}
+l.340 ...font {J.~M.}\ \bibnamefont {Fitch~Osuna}}
+                                                  , \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:340: Undefined control sequence.
+<argument> \bibfnamefont {J.~M.}\ \bibnamefont 
+                                               {Fitch~Osuna}
+l.340 ...font {J.~M.}\ \bibnamefont {Fitch~Osuna}}
+                                                  , \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:341: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {K.}~\bibnamefont {Soto~Canales}
+l.341 ...amefont {K.}~\bibnamefont {Soto~Canales}}
+                                                  , \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:341: Undefined control sequence.
+<argument> \bibfnamefont {K.}~\bibnamefont 
+                                           {Soto~Canales}
+l.341 ...amefont {K.}~\bibnamefont {Soto~Canales}}
+                                                  , \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:342: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {R.}~\bibnamefont {Garza~Mendiola}
+l.342 ...efont {R.}~\bibnamefont {Garza~Mendiola}}
+                                                  \bibfield
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:342: Undefined control sequence.
+<argument> \bibfnamefont {R.}~\bibnamefont 
+                                           {Garza~Mendiola}
+l.342 ...efont {R.}~\bibnamefont {Garza~Mendiola}}
+                                                  \bibfield
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:343: Undefined control sequence.
+l.343   {author} {  }\enquote
+                              {\bibinfo {title} {Valuaci{\'o}n de la calidad
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:345: Undefined control sequence.
+l.345   garza, m{\'e}xico},}\ ,\ \href
+                                      @noop {} {\bibfield  {journal} {\bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:349: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.349 ...font {Ermisch}(1996)}]{ermisch1996demand}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:349: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{1996}{{\citenamefont 
+                                                  {Ermisch}}}{{}}}
+l.349 ...font {Ermisch}(1996)}]{ermisch1996demand}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:351: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {J.}~\bibnamefont {Ermisch}
+l.351 ...bibfnamefont {J.}~\bibnamefont {Ermisch}}
+                                                  \bibfield
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:351: Undefined control sequence.
+<argument> \bibfnamefont {J.}~\bibnamefont 
+                                           {Ermisch}
+l.351 ...bibfnamefont {J.}~\bibnamefont {Ermisch}}
+                                                  \bibfield
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:352: Undefined control sequence.
+l.352   {author} {  }\enquote
+                              {\bibinfo {title} {The demand for housing in b...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:353: Undefined control sequence.
+l.353 ...g: microeconometric evidence},}\ ,\ \href
+                                                  @noop {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:358: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.358   {Chambaz}}]{bayet1991choix}
+                                   %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:358: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{1991}{{\citenamefont 
+                                                  {Bayet}\ \emph {et~al.}}}{...
+l.358   {Chambaz}}]{bayet1991choix}
+                                   %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:358: Undefined control sequence.
+<write> ...ayet}\ \emph {et~al.}}}{{\citenamefont 
+                                                  {Bayet}, \citenamefont {Gu...
+l.358   {Chambaz}}]{bayet1991choix}
+                                   %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:358: Undefined control sequence.
+<write> ...{{\citenamefont {Bayet}, \citenamefont 
+                                                  {Guegano}, \citenamefont {...
+l.358   {Chambaz}}]{bayet1991choix}
+                                   %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:358: Undefined control sequence.
+<write> ...\citenamefont {Guegano}, \citenamefont 
+                                                  {Hourriez},\ and\ \citenam...
+l.358   {Chambaz}}]{bayet1991choix}
+                                   %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:358: Undefined control sequence.
+<write> ...mefont {Hourriez},\ and\ \citenamefont 
+                                                  {Chambaz}}}}
+l.358   {Chambaz}}]{bayet1991choix}
+                                   %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:360: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {A.}~\bibnamefont {Bayet}
+l.360 ...{\bibfnamefont {A.}~\bibnamefont {Bayet}}
+                                                  , \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:360: Undefined control sequence.
+<argument> \bibfnamefont {A.}~\bibnamefont 
+                                           {Bayet}
+l.360 ...{\bibfnamefont {A.}~\bibnamefont {Bayet}}
+                                                  , \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:361: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {Y.}~\bibnamefont {Guegano}
+l.361 ...bibfnamefont {Y.}~\bibnamefont {Guegano}}
+                                                  , \bibinfo {author} {\bibf...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:361: Undefined control sequence.
+<argument> \bibfnamefont {Y.}~\bibnamefont 
+                                           {Guegano}
+l.361 ...bibfnamefont {Y.}~\bibnamefont {Guegano}}
+                                                  , \bibinfo {author} {\bibf...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:362: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {J.-M.}\ \bibnamefont {Hourriez}
+l.362   {J.-M.}\ \bibnamefont {Hourriez}}
+                                         , \ and\ \bibinfo {author} {\bibfna...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:362: Undefined control sequence.
+<argument> \bibfnamefont {J.-M.}\ \bibnamefont 
+                                               {Hourriez}
+l.362   {J.-M.}\ \bibnamefont {Hourriez}}
+                                         , \ and\ \bibinfo {author} {\bibfna...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:363: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {C.}~\bibnamefont {Chambaz}
+l.363   {C.}~\bibnamefont {Chambaz}}
+                                    \bibfield  {author} {  }\enquote {\bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:363: Undefined control sequence.
+<argument> \bibfnamefont {C.}~\bibnamefont 
+                                           {Chambaz}
+l.363   {C.}~\bibnamefont {Chambaz}}
+                                    \bibfield  {author} {  }\enquote {\bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:363: Undefined control sequence.
+l.363 ...Chambaz}}\bibfield  {author} {  }\enquote
+                                                   {\bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:365: Undefined control sequence.
+l.365   avant tout},}\ ,\ \href
+                               @noop {} {\  (\bibinfo {year} {1991})}\Bibite...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:368: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.368 ...nthal}(2014)}]{eichholtz2014demographics}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:368: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2014}{{\citenamefont 
+                                                  {Eichholtz}\ and\ \citenam...
+l.368 ...nthal}(2014)}]{eichholtz2014demographics}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:368: Undefined control sequence.
+<write> ...mefont {Eichholtz}\ and\ \citenamefont 
+                                                  {Lindenthal}}}{{}}}
+l.368 ...nthal}(2014)}]{eichholtz2014demographics}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:370: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {P.}~\bibnamefont {Eichholtz}
+l.370 ...bfnamefont {P.}~\bibnamefont {Eichholtz}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:370: Undefined control sequence.
+<argument> \bibfnamefont {P.}~\bibnamefont 
+                                           {Eichholtz}
+l.370 ...bfnamefont {P.}~\bibnamefont {Eichholtz}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:371: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {T.}~\bibnamefont {Lindenthal}
+l.371 ...fnamefont {T.}~\bibnamefont {Lindenthal}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:371: Undefined control sequence.
+<argument> \bibfnamefont {T.}~\bibnamefont 
+                                           {Lindenthal}
+l.371 ...fnamefont {T.}~\bibnamefont {Lindenthal}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:372: Undefined control sequence.
+l.372   }\enquote
+                  {\bibinfo {title} {Demographics, human capital, and the de...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:373: Undefined control sequence.
+l.373   housing},}\ ,\ \href
+                            @noop {} {\bibfield  {journal} {\bibinfo  {journal}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:377: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.377 ...t {Jauregui}(2015)}]{brasington2015house}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:377: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2015}{{\citenamefont 
+                                                  {Brasington}, \citenamefon...
+l.377 ...t {Jauregui}(2015)}]{brasington2015house}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:377: Undefined control sequence.
+<write> ...tenamefont {Brasington}, \citenamefont 
+                                                  {Hite},\ and\^^M\citenamef...
+l.377 ...t {Jauregui}(2015)}]{brasington2015house}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:377: Undefined control sequence.
+<write> ...namefont {Hite},\ and\^^M\citenamefont 
+                                                  {Jauregui}}}{{}}}
+l.377 ...t {Jauregui}(2015)}]{brasington2015house}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:379: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {D.~M.}\ \bibnamefont {Brasington}
+l.379 ...efont {D.~M.}\ \bibnamefont {Brasington}}
+                                                  , \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:379: Undefined control sequence.
+<argument> \bibfnamefont {D.~M.}\ \bibnamefont 
+                                               {Brasington}
+l.379 ...efont {D.~M.}\ \bibnamefont {Brasington}}
+                                                  , \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:380: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {D.}~\bibnamefont {Hite}
+l.380 ... {\bibfnamefont {D.}~\bibnamefont {Hite}}
+                                                  , \ and\ \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:380: Undefined control sequence.
+<argument> \bibfnamefont {D.}~\bibnamefont 
+                                           {Hite}
+l.380 ... {\bibfnamefont {D.}~\bibnamefont {Hite}}
+                                                  , \ and\ \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:381: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {A.}~\bibnamefont {Jauregui}
+l.381 ...ibfnamefont {A.}~\bibnamefont {Jauregui}}
+                                                  \bibfield  {author} {  }\e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:381: Undefined control sequence.
+<argument> \bibfnamefont {A.}~\bibnamefont 
+                                           {Jauregui}
+l.381 ...ibfnamefont {A.}~\bibnamefont {Jauregui}}
+                                                  \bibfield  {author} {  }\e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:381: Undefined control sequence.
+l.381 ...auregui}}\bibfield  {author} {  }\enquote
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:383: Undefined control sequence.
+l.383   neighborhood segregation},}\ ,\ \href
+                                             @noop {} {\bibfield  {journal} ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:388: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.388   {Li}(2018)}]{liu2018determinants}
+                                         %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:388: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2018}{{\citenamefont 
+                                                  {Liu}\ and\ \citenamefont ...
+l.388   {Li}(2018)}]{liu2018determinants}
+                                         %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:388: Undefined control sequence.
+<write> ...citenamefont {Liu}\ and\ \citenamefont 
+                                                  {Li}}}{{}}}
+l.388   {Li}(2018)}]{liu2018determinants}
+                                         %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:390: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {Y.}~\bibnamefont {Liu}
+l.390 ...} {\bibfnamefont {Y.}~\bibnamefont {Liu}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:390: Undefined control sequence.
+<argument> \bibfnamefont {Y.}~\bibnamefont 
+                                           {Liu}
+l.390 ...} {\bibfnamefont {Y.}~\bibnamefont {Liu}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:391: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {Z.}~\bibnamefont {Li}
+l.391 ...r} {\bibfnamefont {Z.}~\bibnamefont {Li}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:391: Undefined control sequence.
+<argument> \bibfnamefont {Z.}~\bibnamefont 
+                                           {Li}
+l.391 ...r} {\bibfnamefont {Z.}~\bibnamefont {Li}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:392: Undefined control sequence.
+l.392   }\enquote
+                  {\bibinfo {title} {Determinants of housing purchase decisi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:393: Undefined control sequence.
+l.393 ...cation cohort in urban china},}\ ,\ \href
+                                                  @noop
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:398: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.398   {Linneman}(1996)}]{gyourko1996analysis}
+                                               %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:398: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{1996}{{\citenamefont 
+                                                  {Gyourko}\ and\ \citenamef...
+l.398   {Linneman}(1996)}]{gyourko1996analysis}
+                                               %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:398: Undefined control sequence.
+<write> ...namefont {Gyourko}\ and\ \citenamefont 
+                                                  {Linneman}}}{{}}}
+l.398   {Linneman}(1996)}]{gyourko1996analysis}
+                                               %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:400: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {J.}~\bibnamefont {Gyourko}
+l.400 ...bibfnamefont {J.}~\bibnamefont {Gyourko}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:400: Undefined control sequence.
+<argument> \bibfnamefont {J.}~\bibnamefont 
+                                           {Gyourko}
+l.400 ...bibfnamefont {J.}~\bibnamefont {Gyourko}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:401: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {P.}~\bibnamefont {Linneman}
+l.401 ...ibfnamefont {P.}~\bibnamefont {Linneman}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:401: Undefined control sequence.
+<argument> \bibfnamefont {P.}~\bibnamefont 
+                                           {Linneman}
+l.401 ...ibfnamefont {P.}~\bibnamefont {Linneman}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:402: Undefined control sequence.
+l.402   }\enquote
+                  {\bibinfo {title} {Analysis of the changing influences on
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:403: Undefined control sequence.
+l.403 ...useholds' ownership patterns},}\ ,\ \href
+                                                  @noop {} {\bibfield
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:407: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.407 ...enamefont {Chevan}(1982)}]{chevan1982age}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:407: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{1982}{{\citenamefont 
+                                                  {Chevan}}}{{}}}
+l.407 ...enamefont {Chevan}(1982)}]{chevan1982age}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:409: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {A.}~\bibnamefont {Chevan}
+l.409 ...\bibfnamefont {A.}~\bibnamefont {Chevan}}
+                                                  \bibfield  {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:409: Undefined control sequence.
+<argument> \bibfnamefont {A.}~\bibnamefont 
+                                           {Chevan}
+l.409 ...\bibfnamefont {A.}~\bibnamefont {Chevan}}
+                                                  \bibfield  {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:410: Undefined control sequence.
+l.410   {  }\enquote
+                     {\bibinfo {title} {Age, housing choice, and neighborhoo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:411: Undefined control sequence.
+l.411   structure},}\ ,\ \href
+                              @noop {} {\bibfield  {journal} {\bibinfo  {jou...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:414: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.414 ... \citenamefont {Wang}(1994)}]{gau1994tax}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:414: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{1994}{{\citenamefont 
+                                                  {Gau}\ and\ \citenamefont ...
+l.414 ... \citenamefont {Wang}(1994)}]{gau1994tax}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:414: Undefined control sequence.
+<write> ...citenamefont {Gau}\ and\ \citenamefont 
+                                                  {Wang}}}{{}}}
+l.414 ... \citenamefont {Wang}(1994)}]{gau1994tax}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:416: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {G.~W.}\ \bibnamefont {Gau}
+l.416 ...bibfnamefont {G.~W.}\ \bibnamefont {Gau}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:416: Undefined control sequence.
+<argument> \bibfnamefont {G.~W.}\ \bibnamefont 
+                                               {Gau}
+l.416 ...bibfnamefont {G.~W.}\ \bibnamefont {Gau}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:417: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {K.}~\bibnamefont {Wang}
+l.417 ... {\bibfnamefont {K.}~\bibnamefont {Wang}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:417: Undefined control sequence.
+<argument> \bibfnamefont {K.}~\bibnamefont 
+                                           {Wang}
+l.417 ... {\bibfnamefont {K.}~\bibnamefont {Wang}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:418: Undefined control sequence.
+l.418   }\enquote
+                  {\bibinfo {title} {The tax-induced holding periods of real...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:419: Undefined control sequence.
+l.419 ...heory and empirical evidence},}\ ,\ \href
+                                                  @noop {} {\bibfield
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:423: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.423 ...namefont {Xu}(2017)}]{xu2017relationship}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:423: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2017}{{\citenamefont 
+                                                  {Xu}}}{{}}}
+l.423 ...namefont {Xu}(2017)}]{xu2017relationship}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:425: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {T.}~\bibnamefont {Xu}
+l.425 ...r} {\bibfnamefont {T.}~\bibnamefont {Xu}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:425: Undefined control sequence.
+<argument> \bibfnamefont {T.}~\bibnamefont 
+                                           {Xu}
+l.425 ...r} {\bibfnamefont {T.}~\bibnamefont {Xu}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:426: Undefined control sequence.
+l.426   }\enquote
+                  {\bibinfo {title} {The relationship between interest rates...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:427: Undefined control sequence.
+l.427   gdp growth and house prices},}\ ,\ \href
+                                                @noop {} {\bibfield  {journal}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:432: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.432 ...sen}(1987)}]{katz1987interjurisdictional}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:432: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{1987}{{\citenamefont 
+                                                  {Katz}\ and\ \citenamefont...
+l.432 ...sen}(1987)}]{katz1987interjurisdictional}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:432: Undefined control sequence.
+<write> ...itenamefont {Katz}\ and\ \citenamefont 
+                                                  {Rosen}}}{{}}}
+l.432 ...sen}(1987)}]{katz1987interjurisdictional}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:434: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {L.}~\bibnamefont {Katz}
+l.434 ... {\bibfnamefont {L.}~\bibnamefont {Katz}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:434: Undefined control sequence.
+<argument> \bibfnamefont {L.}~\bibnamefont 
+                                           {Katz}
+l.434 ... {\bibfnamefont {L.}~\bibnamefont {Katz}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:435: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {K.~T.}\ \bibnamefont {Rosen}
+l.435 ...bfnamefont {K.~T.}\ \bibnamefont {Rosen}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:435: Undefined control sequence.
+<argument> \bibfnamefont {K.~T.}\ \bibnamefont 
+                                               {Rosen}
+l.435 ...bfnamefont {K.~T.}\ \bibnamefont {Rosen}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:436: Undefined control sequence.
+l.436   }\enquote
+                  {\bibinfo {title} {The interjurisdictional effects of growth
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:437: Undefined control sequence.
+l.437   controls on housing prices},}\ ,\ \href
+                                               @noop {} {\bibfield  {journal}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:443: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.443   {Anderson}}]{Hair2010}
+                              %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:443: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2010}{{\citenamefont 
+                                                  {Hair}\ \emph {et~al.}}}{{...
+l.443   {Anderson}}]{Hair2010}
+                              %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:443: Undefined control sequence.
+<write> ...Hair}\ \emph {et~al.}}}{{\citenamefont 
+                                                  {Hair}, \citenamefont {Bla...
+l.443   {Anderson}}]{Hair2010}
+                              %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:443: Undefined control sequence.
+<write> ...}{{\citenamefont {Hair}, \citenamefont 
+                                                  {Black}, \citenamefont {Ba...
+l.443   {Anderson}}]{Hair2010}
+                              %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:443: Undefined control sequence.
+<write> ..., \citenamefont {Black}, \citenamefont 
+                                                  {Babin},\ and\ \citenamefo...
+l.443   {Anderson}}]{Hair2010}
+                              %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:443: Undefined control sequence.
+<write> ...enamefont {Babin},\ and\ \citenamefont 
+                                                  {Anderson}}}}
+l.443   {Anderson}}]{Hair2010}
+                              %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:448: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {J.}~\bibnamefont {Hair}
+l.448 ...amefont {R.}~\bibnamefont {Anderson}},\ }
+                                                  \href@noop {} {\emph
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:448: Undefined control sequence.
+<argument> \bibfnamefont {J.}~\bibnamefont 
+                                           {Hair}
+l.448 ...amefont {R.}~\bibnamefont {Anderson}},\ }
+                                                  \href@noop {} {\emph
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:448: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {W.}~\bibnamefont {Black}
+l.448 ...amefont {R.}~\bibnamefont {Anderson}},\ }
+                                                  \href@noop {} {\emph
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:448: Undefined control sequence.
+<argument> \bibfnamefont {W.}~\bibnamefont 
+                                           {Black}
+l.448 ...amefont {R.}~\bibnamefont {Anderson}},\ }
+                                                  \href@noop {} {\emph
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:448: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {B.}~\bibnamefont {Babin}
+l.448 ...amefont {R.}~\bibnamefont {Anderson}},\ }
+                                                  \href@noop {} {\emph
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:448: Undefined control sequence.
+<argument> \bibfnamefont {B.}~\bibnamefont 
+                                           {Babin}
+l.448 ...amefont {R.}~\bibnamefont {Anderson}},\ }
+                                                  \href@noop {} {\emph
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:448: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {R.}~\bibnamefont {Anderson}
+l.448 ...amefont {R.}~\bibnamefont {Anderson}},\ }
+                                                  \href@noop {} {\emph
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:448: Undefined control sequence.
+<argument> \bibfnamefont {R.}~\bibnamefont 
+                                           {Anderson}
+l.448 ...amefont {R.}~\bibnamefont {Anderson}},\ }
+                                                  \href@noop {} {\emph
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:448: Undefined control sequence.
+l.448 ...nt {R.}~\bibnamefont {Anderson}},\ }\href
+                                                  @noop {} {\emph
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:452: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.452 ...namefont {Mar{\^o}co}(2010)}]{Maroco2010}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:452: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2010}{{\citenamefont 
+                                                  {Mar{\^o}co}}}{{}}}
+l.452 ...namefont {Mar{\^o}co}(2010)}]{Maroco2010}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:454: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {J.}~\bibnamefont {Mar{\^o}co}
+l.454 ...fnamefont {J.}~\bibnamefont {Mar{\^o}co}}
+                                                  \bibfield
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:454: Undefined control sequence.
+<argument> \bibfnamefont {J.}~\bibnamefont 
+                                           {Mar{\^o}co}
+l.454 ...fnamefont {J.}~\bibnamefont {Mar{\^o}co}}
+                                                  \bibfield
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:455: Undefined control sequence.
+l.455   {author} {  }\enquote
+                              {\bibinfo {title} {An{\'a}lise estat{\'\i}stic...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:456: Undefined control sequence.
+l.456   spss statistics},}\ ,\ \href
+                                    @noop {} {\bibfield  {journal} {\bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:459: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.459 ...almasur}(2016)}]{calmasur2016determining}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:459: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2016}{{\citenamefont 
+                                                  {Calmasur}}}{{}}}
+l.459 ...almasur}(2016)}]{calmasur2016determining}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:462: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {G.}~\bibnamefont {Calmasur}
+l.462   {Calmasur}},\ }
+                       \enquote {\bibinfo {title} {Determining factors affec...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:462: Undefined control sequence.
+<argument> \bibfnamefont {G.}~\bibnamefont 
+                                           {Calmasur}
+l.462   {Calmasur}},\ }
+                       \enquote {\bibinfo {title} {Determining factors affec...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:462: Undefined control sequence.
+l.462   {Calmasur}},\ }\enquote
+                                {\bibinfo {title} {Determining factors affec...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:463: Undefined control sequence.
+l.463 ... with hedonic pricing model},}\ in\ \href
+                                                  @noop {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:468: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.468   {Wen}(2020)}]{XIAO2020}
+                               %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:468: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2020}{{\citenamefont 
+                                                  {Xiao}, \citenamefont {Hui...
+l.468   {Wen}(2020)}]{XIAO2020}
+                               %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:468: Undefined control sequence.
+<write> ...}{{\citenamefont {Xiao}, \citenamefont 
+                                                  {Hui},\ and\ \citenamefont...
+l.468   {Wen}(2020)}]{XIAO2020}
+                               %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:468: Undefined control sequence.
+<write> ...itenamefont {Hui},\ and\ \citenamefont 
+                                                  {Wen}}}{{}}}
+l.468   {Wen}(2020)}]{XIAO2020}
+                               %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:470: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {Y.}~\bibnamefont {Xiao}
+l.470 ... {\bibfnamefont {Y.}~\bibnamefont {Xiao}}
+                                                  , \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:470: Undefined control sequence.
+<argument> \bibfnamefont {Y.}~\bibnamefont 
+                                           {Xiao}
+l.470 ... {\bibfnamefont {Y.}~\bibnamefont {Xiao}}
+                                                  , \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:471: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {E.~C.}\ \bibnamefont {Hui}
+l.471 ...bibfnamefont {E.~C.}\ \bibnamefont {Hui}}
+                                                  , \ and\ \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:471: Undefined control sequence.
+<argument> \bibfnamefont {E.~C.}\ \bibnamefont 
+                                               {Hui}
+l.471 ...bibfnamefont {E.~C.}\ \bibnamefont {Hui}}
+                                                  , \ and\ \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:472: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {H.}~\bibnamefont {Wen}
+l.472   {\bibfnamefont {H.}~\bibnamefont {Wen}}
+                                               \bibfield  {author} {  }\enquote
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:472: Undefined control sequence.
+<argument> \bibfnamefont {H.}~\bibnamefont 
+                                           {Wen}
+l.472   {\bibfnamefont {H.}~\bibnamefont {Wen}}
+                                               \bibfield  {author} {  }\enquote
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:472: Undefined control sequence.
+l.472 ...nt {Wen}}\bibfield  {author} {  }\enquote
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:474: Undefined control sequence.
+l.474 ...e case of the square dancing},}\ ,\ \href
+                                                  @noop {} {\bibfield
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:475: Misplaced alignment tab character &.
+<argument> Urban Forestry &
+                            Urban Greening
+l.475 ...nal} {Urban Forestry & Urban Greening}\ }
+                                                  \textbf
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[4]
+
+main.bbl:478: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.478 ...ont {de~Portugal}(2020)}]{BancoPortugal1}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:478: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2020}{{\citenamefont 
+                                                  {de~Portugal}}}{{}}}
+l.478 ...ont {de~Portugal}(2020)}]{BancoPortugal1}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:481: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {B.}~\bibnamefont {de~Portugal}
+l.481   {de~Portugal}},\ }
+                          \href
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:481: Undefined control sequence.
+<argument> \bibfnamefont {B.}~\bibnamefont 
+                                           {de~Portugal}
+l.481   {de~Portugal}},\ }
+                          \href
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:481: Undefined control sequence.
+l.481   {de~Portugal}},\ }\href
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:482: Missing $ inserted.
+<inserted text> 
+                $
+l.482 ...tes/default/files/anexos/pdf-boletim/ref_
+                                                  06_2020_pt.pdf}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+main.bbl:482: Extra }, or forgotten $.
+l.482 ...es/anexos/pdf-boletim/ref_06_2020_pt.pdf}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+main.bbl:486: You can't use `\spacefactor' in math mode.
+<argument> .\spacefactor 
+                         \@mmm \space 
+l.486 ...{\citenamefont {Yanan}(2017)}]{Yanan2017}
+                                                  %
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+main.bbl:486: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.486 ...{\citenamefont {Yanan}(2017)}]{Yanan2017}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+main.bbl:486: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.486 ...{\citenamefont {Yanan}(2017)}]{Yanan2017}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+main.bbl:486: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.486 ...{\citenamefont {Yanan}(2017)}]{Yanan2017}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+main.bbl:486: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.486 ...{\citenamefont {Yanan}(2017)}]{Yanan2017}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:486: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2017}{{\citenamefont 
+                                                  {Yanan}}}{{}}}
+l.486 ...{\citenamefont {Yanan}(2017)}]{Yanan2017}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:489: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {S.}~\bibnamefont {Yanan}
+l.489   {Yanan}},\ }
+                    \enquote {\bibinfo {title} {The impact of demographic st...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:489: Undefined control sequence.
+<argument> \bibfnamefont {S.}~\bibnamefont 
+                                           {Yanan}
+l.489   {Yanan}},\ }
+                    \enquote {\bibinfo {title} {The impact of demographic st...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:489: Undefined control sequence.
+l.489   {Yanan}},\ }\enquote
+                             {\bibinfo {title} {The impact of demographic st...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:490: Undefined control sequence.
+l.490 ... price: Evidence from macau},}\ in\ \href
+                                                  @noop {} {\emph {\bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:493: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {A.}~\bibnamefont {Press}
+l.493 ...\bibfnamefont {A.}~\bibnamefont {Press}}}
+                                                  \ (\bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:493: Undefined control sequence.
+<argument> \bibfnamefont {A.}~\bibnamefont 
+                                           {Press}
+l.493 ...\bibfnamefont {A.}~\bibnamefont {Press}}}
+                                                  \ (\bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:497: You can't use `\spacefactor' in math mode.
+<argument> .\spacefactor 
+                         \@mmm \space 
+l.497   {Clark}(2002)}]{Huang2002}
+                                  %
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+main.bbl:497: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.497   {Clark}(2002)}]{Huang2002}
+                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:497: Missing $ inserted.
+<inserted text> 
+                $
+l.497   {Clark}(2002)}]{Huang2002}
+                                  %
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+main.bbl:497: \textfont 11 is undefined (character ^^b8).
+<inserted text> $
+                 
+l.497   {Clark}(2002)}]{Huang2002}
+                                  %
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+main.bbl:497: \textfont 11 is undefined (character ^^b8).
+<inserted text> $
+                 
+l.497   {Clark}(2002)}]{Huang2002}
+                                  %
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+Overfull \hbox (128.43268pt too wide) in paragraph at lines 481--497
+[]\OT1/txr/m/n/10 B. de Por-tu-gal, https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/ref$[]6[]020[]\OML/txmi/m/it/10 t:pdf[] \OT1/txr/m/n/10 (2020) \OML/txmi/m/it/10 accessed \OT1/txr/m/n/10 :
+ []
+
+
+Overfull \hbox (537.79512pt too wide) in paragraph at lines 481--497
+\OT1/txr/m/n/10 2020 \OMS/txsy/m/n/10 ^^@ \OT1/txr/m/n/10 12 \OMS/txsy/m/n/10 ^^@ \OT1/txr/m/n/10 12\OML/txmi/m/it/10 :[][] [][];  [] in \OT1/txr/m/n/10 @\OML/txmi/m/it/10 noop[][];  editedby [] [][] \OT1/txr/m/n/10 (2017)\OML/txmi/m/it/10 ; pp: \OT1/txr/m/n/10 268 \OMS/txsy/m/n/10 ^^@
+ []
+
+
+main.bbl:497: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.497   {Clark}(2002)}]{Huang2002}
+                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:497: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2020}{{\citenamefont 
+                                                  {de~Portugal}}}{{}}}
+l.497   {Clark}(2002)}]{Huang2002}
+                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:499: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {Y.}~\bibnamefont {Huang}
+l.499 ...{\bibfnamefont {Y.}~\bibnamefont {Huang}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:499: Undefined control sequence.
+<argument> \bibfnamefont {Y.}~\bibnamefont 
+                                           {Huang}
+l.499 ...{\bibfnamefont {Y.}~\bibnamefont {Huang}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:500: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {W.~A.~V.}\ \bibnamefont {Clark}
+l.500 ...amefont {W.~A.~V.}\ \bibnamefont {Clark}}
+                                                  \bibfield  {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:500: Undefined control sequence.
+<argument> \bibfnamefont {W.~A.~V.}\ \bibnamefont 
+                                                  {Clark}
+l.500 ...amefont {W.~A.~V.}\ \bibnamefont {Clark}}
+                                                  \bibfield  {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:501: Undefined control sequence.
+l.501   {  }\enquote
+                     {\bibinfo {title} {Housing tenure choice in transitiona...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:502: Undefined control sequence.
+l.502   china: A multilevel analysis},}\ ,\ \href
+                                                 @noop {} {\bibfield  {journal}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:508: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.508   {Law}}]{hui2007measuring}
+                                 %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:508: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2007}{{\citenamefont 
+                                                  {Hui}\ \emph {et~al.}}}{{\...
+l.508   {Law}}]{hui2007measuring}
+                                 %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:508: Undefined control sequence.
+<write> ...{Hui}\ \emph {et~al.}}}{{\citenamefont 
+                                                  {Hui}, \citenamefont {Chau...
+l.508   {Law}}]{hui2007measuring}
+                                 %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:508: Undefined control sequence.
+<write> ...}}{{\citenamefont {Hui}, \citenamefont 
+                                                  {Chau}, \citenamefont {Pun...
+l.508   {Law}}]{hui2007measuring}
+                                 %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:508: Undefined control sequence.
+<write> ...}, \citenamefont {Chau}, \citenamefont 
+                                                  {Pun},\ and\ \citenamefont...
+l.508   {Law}}]{hui2007measuring}
+                                 %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:508: Undefined control sequence.
+<write> ...itenamefont {Pun},\ and\ \citenamefont 
+                                                  {Law}}}}
+l.508   {Law}}]{hui2007measuring}
+                                 %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:510: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {E.~C.}\ \bibnamefont {Hui}
+l.510 ...bibfnamefont {E.~C.}\ \bibnamefont {Hui}}
+                                                  , \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:510: Undefined control sequence.
+<argument> \bibfnamefont {E.~C.}\ \bibnamefont 
+                                               {Hui}
+l.510 ...bibfnamefont {E.~C.}\ \bibnamefont {Hui}}
+                                                  , \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:511: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {C.~K.}\ \bibnamefont {Chau}
+l.511 ...ibfnamefont {C.~K.}\ \bibnamefont {Chau}}
+                                                  , \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:511: Undefined control sequence.
+<argument> \bibfnamefont {C.~K.}\ \bibnamefont 
+                                               {Chau}
+l.511 ...ibfnamefont {C.~K.}\ \bibnamefont {Chau}}
+                                                  , \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:512: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {L.}~\bibnamefont {Pun}
+l.512   {\bibfnamefont {L.}~\bibnamefont {Pun}}
+                                               , \ and\ \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:512: Undefined control sequence.
+<argument> \bibfnamefont {L.}~\bibnamefont 
+                                           {Pun}
+l.512   {\bibfnamefont {L.}~\bibnamefont {Pun}}
+                                               , \ and\ \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:513: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {M.}~\bibnamefont {Law}
+l.513   {\bibfnamefont {M.}~\bibnamefont {Law}}
+                                               \bibfield  {author} {  }\enquote
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:513: Undefined control sequence.
+<argument> \bibfnamefont {M.}~\bibnamefont 
+                                           {Law}
+l.513   {\bibfnamefont {M.}~\bibnamefont {Law}}
+                                               \bibfield  {author} {  }\enquote
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:513: Undefined control sequence.
+l.513 ...nt {Law}}\bibfield  {author} {  }\enquote
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:515: Undefined control sequence.
+l.515 ...ing spatial weighting matrix},}\ ,\ \href
+                                                  @noop
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:520: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.520   {Peng}(2011)}]{tsai2011bubbles}
+                                       %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:520: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2011}{{\citenamefont 
+                                                  {Tsai}\ and\ \citenamefont...
+l.520   {Peng}(2011)}]{tsai2011bubbles}
+                                       %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:520: Undefined control sequence.
+<write> ...itenamefont {Tsai}\ and\ \citenamefont 
+                                                  {Peng}}}{{}}}
+l.520   {Peng}(2011)}]{tsai2011bubbles}
+                                       %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:522: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {I.~C.}\ \bibnamefont {Tsai}
+l.522 ...ibfnamefont {I.~C.}\ \bibnamefont {Tsai}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:522: Undefined control sequence.
+<argument> \bibfnamefont {I.~C.}\ \bibnamefont 
+                                               {Tsai}
+l.522 ...ibfnamefont {I.~C.}\ \bibnamefont {Tsai}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:523: Undefined control sequence.
+<argument> \bibnamefont 
+                        {Peng}
+l.523   {author} {\bibnamefont {Peng}}
+                                      \bibfield  {author} {  }\enquote {\bib...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:523: Undefined control sequence.
+l.523 ...t {Peng}}\bibfield  {author} {  }\enquote
+                                                   {\bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:525: Undefined control sequence.
+l.525   effects},}\ ,\ \href
+                            @noop {} {\bibfield  {journal} {\bibinfo  {journal}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:529: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.529   {Kabundi}(2010)}]{gupta2010effect}
+                                          %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:529: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2010}{{\citenamefont 
+                                                  {Gupta}\ and\ \citenamefon...
+l.529   {Kabundi}(2010)}]{gupta2010effect}
+                                          %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:529: Undefined control sequence.
+<write> ...tenamefont {Gupta}\ and\ \citenamefont 
+                                                  {Kabundi}}}{{}}}
+l.529   {Kabundi}(2010)}]{gupta2010effect}
+                                          %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:531: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {R.}~\bibnamefont {Gupta}
+l.531 ...{\bibfnamefont {R.}~\bibnamefont {Gupta}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:531: Undefined control sequence.
+<argument> \bibfnamefont {R.}~\bibnamefont 
+                                           {Gupta}
+l.531 ...{\bibfnamefont {R.}~\bibnamefont {Gupta}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:532: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {A.}~\bibnamefont {Kabundi}
+l.532 ...bibfnamefont {A.}~\bibnamefont {Kabundi}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:532: Undefined control sequence.
+<argument> \bibfnamefont {A.}~\bibnamefont 
+                                           {Kabundi}
+l.532 ...bibfnamefont {A.}~\bibnamefont {Kabundi}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:533: Undefined control sequence.
+l.533   }\enquote
+                  {\bibinfo {title} {The effect of monetary policy on house ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:534: Undefined control sequence.
+l.534   inflation},}\ ,\ \href
+                              @noop {} {\bibfield  {journal} {\bibinfo  {jou...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:538: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.538   {Knaap}(2003)}]{song2003new}
+                                    %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:538: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2003}{{\citenamefont 
+                                                  {Song}\ and\ \citenamefont...
+l.538   {Knaap}(2003)}]{song2003new}
+                                    %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:538: Undefined control sequence.
+<write> ...itenamefont {Song}\ and\ \citenamefont 
+                                                  {Knaap}}}{{}}}
+l.538   {Knaap}(2003)}]{song2003new}
+                                    %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:540: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {Y.}~\bibnamefont {Song}
+l.540 ... {\bibfnamefont {Y.}~\bibnamefont {Song}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:540: Undefined control sequence.
+<argument> \bibfnamefont {Y.}~\bibnamefont 
+                                           {Song}
+l.540 ... {\bibfnamefont {Y.}~\bibnamefont {Song}}
+                                                  \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:541: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {G.-J.}\ \bibnamefont {Knaap}
+l.541 ...bfnamefont {G.-J.}\ \bibnamefont {Knaap}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:541: Undefined control sequence.
+<argument> \bibfnamefont {G.-J.}\ \bibnamefont 
+                                               {Knaap}
+l.541 ...bfnamefont {G.-J.}\ \bibnamefont {Knaap}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:542: Undefined control sequence.
+l.542   }\enquote
+                  {\bibinfo {title} {New urbanism and housing values: a disa...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:543: Undefined control sequence.
+l.543   assessment},}\ ,\ \href
+                               @noop {} {\bibfield  {journal} {\bibinfo  {jo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:548: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.548 ...g},\ and\ \citenamefont {Chen}}]{article}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:548: Undefined control sequence.
+<write> ... }{2020{\natexlab {a}}}{{\citenamefont 
+                                                  {Zhou}\ \emph {et~al.}}}{{...
+l.548 ...g},\ and\ \citenamefont {Chen}}]{article}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:548: Undefined control sequence.
+<write> ...Zhou}\ \emph {et~al.}}}{{\citenamefont 
+                                                  {Zhou}, \citenamefont {Sha...
+l.548 ...g},\ and\ \citenamefont {Chen}}]{article}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:548: Undefined control sequence.
+<write> ...}{{\citenamefont {Zhou}, \citenamefont 
+                                                  {Shao}, \citenamefont {Zha...
+l.548 ...g},\ and\ \citenamefont {Chen}}]{article}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:548: Undefined control sequence.
+<write> ...}, \citenamefont {Shao}, \citenamefont 
+                                                  {Zhang},\ and\ \citenamefo...
+l.548 ...g},\ and\ \citenamefont {Chen}}]{article}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:548: Undefined control sequence.
+<write> ...enamefont {Zhang},\ and\ \citenamefont 
+                                                  {Chen}}}}
+l.548 ...g},\ and\ \citenamefont {Chen}}]{article}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:550: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {Q.}~\bibnamefont {Zhou}
+l.550 ... {\bibfnamefont {Q.}~\bibnamefont {Zhou}}
+                                                  , \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:550: Undefined control sequence.
+<argument> \bibfnamefont {Q.}~\bibnamefont 
+                                           {Zhou}
+l.550 ... {\bibfnamefont {Q.}~\bibnamefont {Zhou}}
+                                                  , \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:551: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {Q.}~\bibnamefont {Shao}
+l.551   {\bibfnamefont {Q.}~\bibnamefont {Shao}}
+                                                , \bibinfo {author} {\bibfna...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:551: Undefined control sequence.
+<argument> \bibfnamefont {Q.}~\bibnamefont 
+                                           {Shao}
+l.551   {\bibfnamefont {Q.}~\bibnamefont {Shao}}
+                                                , \bibinfo {author} {\bibfna...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:552: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {X.}~\bibnamefont {Zhang}
+l.552   {X.}~\bibnamefont {Zhang}}
+                                  , \ and\ \bibinfo {author} {\bibfnamefont
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:552: Undefined control sequence.
+<argument> \bibfnamefont {X.}~\bibnamefont 
+                                           {Zhang}
+l.552   {X.}~\bibnamefont {Zhang}}
+                                  , \ and\ \bibinfo {author} {\bibfnamefont
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:553: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {J.}~\bibnamefont {Chen}
+l.553   {J.}~\bibnamefont {Chen}}
+                                 \bibfield  {author} {  }\enquote {\bibinfo ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:553: Undefined control sequence.
+<argument> \bibfnamefont {J.}~\bibnamefont 
+                                           {Chen}
+l.553   {J.}~\bibnamefont {Chen}}
+                                 \bibfield  {author} {  }\enquote {\bibinfo ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:553: Undefined control sequence.
+l.553 ...t {Chen}}\bibfield  {author} {  }\enquote
+                                                   {\bibinfo {title}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:556: Undefined control sequence.
+l.556   ,\ \href
+                 {\doibase 10.1016/j.landusepol.2019.104410} {\bibfield  {jo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:556: Undefined control sequence.
+l.556   ,\ \href {\doibase
+                           10.1016/j.landusepol.2019.104410} {\bibfield  {jo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:562: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.562 ...},\ and\ \citenamefont {Chen}}]{article2}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:562: Undefined control sequence.
+<write> ... }{2020{\natexlab {b}}}{{\citenamefont 
+                                                  {Zhou}\ \emph {et~al.}}}{{...
+l.562 ...},\ and\ \citenamefont {Chen}}]{article2}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:562: Undefined control sequence.
+<write> ...Zhou}\ \emph {et~al.}}}{{\citenamefont 
+                                                  {Zhou}, \citenamefont {Sha...
+l.562 ...},\ and\ \citenamefont {Chen}}]{article2}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:562: Undefined control sequence.
+<write> ...}{{\citenamefont {Zhou}, \citenamefont 
+                                                  {Shao}, \citenamefont {Zha...
+l.562 ...},\ and\ \citenamefont {Chen}}]{article2}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:562: Undefined control sequence.
+<write> ...}, \citenamefont {Shao}, \citenamefont 
+                                                  {Zhang},\ and\ \citenamefo...
+l.562 ...},\ and\ \citenamefont {Chen}}]{article2}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:562: Undefined control sequence.
+<write> ...enamefont {Zhang},\ and\ \citenamefont 
+                                                  {Chen}}}}
+l.562 ...},\ and\ \citenamefont {Chen}}]{article2}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:564: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {Q.}~\bibnamefont {Zhou}
+l.564 ... {\bibfnamefont {Q.}~\bibnamefont {Zhou}}
+                                                  , \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:564: Undefined control sequence.
+<argument> \bibfnamefont {Q.}~\bibnamefont 
+                                           {Zhou}
+l.564 ... {\bibfnamefont {Q.}~\bibnamefont {Zhou}}
+                                                  , \bibinfo {author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:565: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {Q.}~\bibnamefont {Shao}
+l.565   {\bibfnamefont {Q.}~\bibnamefont {Shao}}
+                                                , \bibinfo {author} {\bibfna...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:565: Undefined control sequence.
+<argument> \bibfnamefont {Q.}~\bibnamefont 
+                                           {Shao}
+l.565   {\bibfnamefont {Q.}~\bibnamefont {Shao}}
+                                                , \bibinfo {author} {\bibfna...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:566: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {X.}~\bibnamefont {Zhang}
+l.566   {X.}~\bibnamefont {Zhang}}
+                                  , \ and\ \bibinfo {author} {\bibfnamefont
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:566: Undefined control sequence.
+<argument> \bibfnamefont {X.}~\bibnamefont 
+                                           {Zhang}
+l.566   {X.}~\bibnamefont {Zhang}}
+                                  , \ and\ \bibinfo {author} {\bibfnamefont
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:567: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {J.}~\bibnamefont {Chen}
+l.567   {J.}~\bibnamefont {Chen}}
+                                 \bibfield  {author} {  }\enquote {\bibinfo ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:567: Undefined control sequence.
+<argument> \bibfnamefont {J.}~\bibnamefont 
+                                           {Chen}
+l.567   {J.}~\bibnamefont {Chen}}
+                                 \bibfield  {author} {  }\enquote {\bibinfo ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:567: Undefined control sequence.
+l.567 ...t {Chen}}\bibfield  {author} {  }\enquote
+                                                   {\bibinfo {title}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:570: Undefined control sequence.
+l.570   ,\ \href
+                 {\doibase 10.1016/j.landusepol.2019.104410} {\bibfield  {jo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:570: Undefined control sequence.
+l.570   ,\ \href {\doibase
+                           10.1016/j.landusepol.2019.104410} {\bibfield  {jo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:575: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.575 ...efont {Borges}(2021)}]{silva2021clusters}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:575: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2021}{{\citenamefont 
+                                                  {Costa~e Silva}, \citename...
+l.575 ...efont {Borges}(2021)}]{silva2021clusters}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:575: Undefined control sequence.
+<write> ...amefont {Costa~e Silva}, \citenamefont 
+                                                  {Correia},\ and\^^M\citena...
+l.575 ...efont {Borges}(2021)}]{silva2021clusters}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:575: Undefined control sequence.
+<write> ...efont {Correia},\ and\^^M\citenamefont 
+                                                  {Borges}}}{{}}}
+l.575 ...efont {Borges}(2021)}]{silva2021clusters}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:577: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {E.}~\bibnamefont {Costa~e Silva}
+l.577 ...mefont {E.}~\bibnamefont {Costa~e Silva}}
+                                                  , \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:577: Undefined control sequence.
+<argument> \bibfnamefont {E.}~\bibnamefont 
+                                           {Costa~e Silva}
+l.577 ...mefont {E.}~\bibnamefont {Costa~e Silva}}
+                                                  , \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:578: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {A.}~\bibnamefont {Correia}
+l.578 ...bibfnamefont {A.}~\bibnamefont {Correia}}
+                                                  , \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:578: Undefined control sequence.
+<argument> \bibfnamefont {A.}~\bibnamefont 
+                                           {Correia}
+l.578 ...bibfnamefont {A.}~\bibnamefont {Correia}}
+                                                  , \ and\ \bibinfo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:579: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {A.}~\bibnamefont {Borges}
+l.579 ...\bibfnamefont {A.}~\bibnamefont {Borges}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:579: Undefined control sequence.
+<argument> \bibfnamefont {A.}~\bibnamefont 
+                                           {Borges}
+l.579 ...\bibfnamefont {A.}~\bibnamefont {Borges}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:580: Undefined control sequence.
+l.580   }\enquote
+                  {\bibinfo {title} {Unveiling the dynamics of the european
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:582: Undefined control sequence.
+l.582   analysis},}\ ,\ \href
+                             @noop {} {\bibfield  {journal} {\bibinfo  {jour...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:585: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.585 ...efont {Reis}(2001)}]{reis2001estatistica}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+main.bbl:585: Undefined control sequence.
+<write> ...\the \c@NAT@ctr }{2001}{{\citenamefont 
+                                                  {Reis}}}{{}}}
+l.585 ...efont {Reis}(2001)}]{reis2001estatistica}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:587: Undefined control sequence.
+<argument> \bibfnamefont 
+                         {E.}~\bibnamefont {Reis}
+l.587 ... {\bibfnamefont {E.}~\bibnamefont {Reis}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:587: Undefined control sequence.
+<argument> \bibfnamefont {E.}~\bibnamefont 
+                                           {Reis}
+l.587 ... {\bibfnamefont {E.}~\bibnamefont {Reis}}
+                                                  \bibfield  {author} {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:588: Undefined control sequence.
+l.588    }\enquote
+                   {\bibinfo {title} {Estat{\'\i}stica multivariada aplicada...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+main.bbl:589: Undefined control sequence.
+l.589   \href
+             @noop {} {\bibfield  {journal} {\bibinfo  {journal} {Edi{\c{c}}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+main.bbl:591: LaTeX Error: \begin{document} ended by \end{thebibliography}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.591 \end{thebibliography}
+                           %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+main.bbl:591: Missing } inserted.
+<inserted text> 
+                }
+l.591 \end{thebibliography}
+                           %
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+main.bbl:591: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.591 \end{thebibliography}
+                           %
+Things are pretty mixed up, but I think the worst is over.
+
+) [5] (main.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3143 strings out of 474824
- 45482 string characters out of 5739210
- 1932040 words of memory out of 5000000
- 25061 multiletter control sequences out of 15000+600000
- 592719 words of font info for 115 fonts, out of 8000000 for 9000
+ 3356 strings out of 474824
+ 50165 string characters out of 5739210
+ 1937040 words of memory out of 5000000
+ 25271 multiletter control sequences out of 15000+600000
+ 594335 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,79p,1187b,231s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtcxr.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxr.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (3 pages, 64474 bytes).
+ 72i,5n,79p,1192b,271s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtcxr.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxmi.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxr.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/txsy.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (5 pages, 86643 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

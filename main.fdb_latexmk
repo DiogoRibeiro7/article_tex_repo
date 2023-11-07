@@ -1,19 +1,20 @@
 # Fdb version 4
-["bibtex main"] 1699353490 "main.aux" "main.bbl" "main" 1699353491 0
-  "./aipnum-cp.bst" 1699353473 0 d41d8cd98f00b204e9800998ecf8427e ""
+["bibtex main"] 0 "main.aux" "main.bbl" "main" 0 -1
+  "./aipnum-cp.bst" 1699358029 76344 90e5cd2ecf66b033f3f9fe3cbca4011a ""
   "./sample.bib" 1699353475 17793 9930598245dc4113ef16dd754bcb092e ""
-  "main.aux" 1699353490 1085 d979295b3636a74d7416e85a93f9ef57 "pdflatex"
+  "main.aux" 1699358037 5092 a8b5815840511e62dccd1539746a5f1d "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1699353490 "/Users/diogoribeiro/work_code/personal/article_tex/main.tex" "main.pdf" "main" 1699353491 0
+["pdflatex"] 1699358036 "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" "main.pdf" "main" 1699358037 2
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1699353488 82560 ef239c2cb0a12117bb5525d1036b4375 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1699285560 24186847 12d8f027a383120b3d56b7cb8728ac74 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc" 1698324500 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtcxr.tfm" 1699353485 1368 7af309acf53bb727783600185f629f47 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxb.tfm" 1699353485 1020 c53143d3e3747b5c1149bd9a5ecd7b55 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxi.tfm" 1699353485 1048 a97cff5f6b833b712079817ce7a40d4c ""
+  "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxmi.tfm" 1699353485 1056 e2202af076e43d03fc17f87e104021b0 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxptmb.tfm" 1699353485 4572 2c370d27bbb031f7592de9d41dc8cfca ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxptmr.tfm" 1699353485 4452 0fd0a792eaab7113e4d4f1b941ff0367 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxptmri.tfm" 1699353485 4640 ce59980bcbe9e6236fab46d0b5212c7e ""
@@ -31,13 +32,16 @@
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyb.tfm" 1699353485 988 098ca7e8cc5647b9ac21b82dbdce1f01 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyc.tfm" 1699353485 1084 75e807e9e71f7a312e4e1187dce5e93b ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtcxr.pfb" 1699353485 14606 238072bd1ce11e3dff8451a5a2608194 ""
+  "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxmi.pfb" 1699353485 13806 49b888f4605a088e66b9eb4fee320a6e ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxr.pfb" 1699353485 6339 e2b78706efdc360ee6aec9b6e20211a7 ""
+  "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/txsy.pfb" 1699353485 20336 69267d8a81bca8b24c9b42694a4a28f9 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb" 1136853348 44729 811d6c62865936705a31c797a1d5dada ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb" 1136853348 46026 6dab18b61c907687b520c72847215a68 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb" 1136853348 45458 a3faba884469519614ca56ba5f6b1de1 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/public/txfonts/tcxr.vf" 1699353485 988 4f41b8c123e4537adb7f2dbb638d2981 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/public/txfonts/txb.vf" 1699353485 904 6f62e1cf12eaf73424d693287a9d3dce ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/public/txfonts/txi.vf" 1699353485 904 4ff20c038f0c15338aa91e1bb66c7989 ""
+  "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/public/txfonts/txmi.vf" 1699353485 960 cfcc9d587b40b769f64408b3ca115941 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/public/txfonts/txr.vf" 1699353485 904 e582cae2d8ae3f48a0a520440ebcdb51 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii" 1698324515 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg" 1698324515 584 2a1075dd71571459f59146da9f7502ad ""
@@ -63,11 +67,11 @@
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsya.fd" 1699353485 310 cee07e4964749ccbc77d84fc49726a79 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyb.fd" 1699353485 310 8c5467c8932c259af51b0f116c9734bd ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyc.fd" 1699353485 310 4b5d6fe830337242ef847b3bff48ba21 ""
-  "/Users/diogoribeiro/work_code/personal/article_tex/main.tex" 1699284886 9973 5ad7c95bc6a81f0e7d5a34c209eb2657 ""
+  "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" 1699357299 11273 eb26ea7b7fca971bb8d615c2c6c36255 ""
   "aip-cp.cls" 1699353300 34293 19e04de8854ed49347766731bb009cba ""
-  "main.aux" 1699353490 1085 d979295b3636a74d7416e85a93f9ef57 "pdflatex"
-  "main.bbl" 1699353490 0 d41d8cd98f00b204e9800998ecf8427e "bibtex main"
-  "main.tex" 1699284886 9973 5ad7c95bc6a81f0e7d5a34c209eb2657 ""
+  "main.aux" 1699358037 5092 a8b5815840511e62dccd1539746a5f1d "pdflatex"
+  "main.bbl" 1699358034 34929 d8f3acef5480650e7903c096ed3ec557 "bibtex main"
+  "main.tex" 1699357299 11273 eb26ea7b7fca971bb8d615c2c6c36255 ""
   (generated)
   "main.aux"
   "main.log"
