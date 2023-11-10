@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.11.6)  10 NOV 2023 17:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.11.6)  10 NOV 2023 17:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -478,17 +478,116 @@ LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <9> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 37.
- [1{/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 61.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 38.
+
+
+Package natbib Warning: Citation `DUCA2010203' on page 1 undefined on input line 38.
+
+
+Package natbib Warning: Citation `DUCA2010203' on page 1 undefined on input line 38.
+
+
+Package natbib Warning: Citation `DUCA2010203' on page 1 undefined on input line 38.
+
+
+Package natbib Warning: Citation `EICHHOLTZ201419' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `ferreira2021dinamica' on page 1 undefined on input line 46.
+
+
+Package natbib Warning: Citation `adair1996hedonic' on page 1 undefined on input line 49.
+
+
+Package natbib Warning: Citation `calmasur2016determining' on page 1 undefined on input line 49.
+
+
+Package natbib Warning: Citation `adair1996hedonic' on page 1 undefined on input line 49.
+
+
+Package natbib Warning: Citation `calmasur2016determining' on page 1 undefined on input line 49.
+
+
+Package natbib Warning: Citation `alkana2015housing' on page 1 undefined on input line 49.
+
+
+Package natbib Warning: Citation `mcgreal2013implicit' on page 1 undefined on input line 49.
+
+[1{/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}]
+
+Package natbib Warning: Citation `article_zhou' on page 2 undefined on input line 51.
+
+
+Package natbib Warning: Citation `rappaport2008consumption' on page 2 undefined on input line 52.
+
+
+Package natbib Warning: Citation `calcagno2009effect' on page 2 undefined on input line 52.
+
+
+Package natbib Warning: Citation `alves' on page 2 undefined on input line 53.
+
+
+Package natbib Warning: Citation `mcgreal2013implicit' on page 2 undefined on input line 53.
+
+
+Package natbib Warning: Citation `fuller2020housing' on page 2 undefined on input line 54.
+
+
+Package natbib Warning: Citation `INE' on page 2 undefined on input line 54.
+
+
+Package natbib Warning: Citation `varao2019determinants' on page 2 undefined on input line 54.
+
+
+Package natbib Warning: Citation `archer2010ownership' on page 2 undefined on input line 54.
+
+
+Package natbib Warning: Citation `johnes1999house' on page 2 undefined on input line 55.
+
+
+Package natbib Warning: Citation `XIAO2020' on page 2 undefined on input line 58.
+
+
+Package natbib Warning: Citation `zambrano2016formacion' on page 2 undefined on input line 58.
+
+
+Package natbib Warning: Citation `chasco2012externalidades' on page 2 undefined on input line 58.
+
+
+Package natbib Warning: Citation `fitch2013valuacion' on page 2 undefined on input line 58.
+
+
+Package natbib Warning: Citation `ermisch1996demand' on page 2 undefined on input line 59.
+
+
+Package natbib Warning: Citation `bayet1991choix' on page 2 undefined on input line 59.
+
+
+Package natbib Warning: Citation `eichholtz2014demographics' on page 2 undefined on input line 59.
+
+
+Package natbib Warning: Citation `brasington2015house' on page 2 undefined on input line 59.
+
+
+Package natbib Warning: Citation `gyourko1996analysis' on page 2 undefined on input line 59.
+
+
+Package natbib Warning: Citation `xu2017relationship' on page 2 undefined on input line 61.
 
 
 Package natbib Warning: Citation `red' on page 2 undefined on input line 61.
 
 
+Package natbib Warning: Citation `katz1987interjurisdictional' on page 2 undefined on input line 61.
+
+
 Underfull \vbox (badness 5637) has occurred while \output is active []
 
  [2]
+
+Package natbib Warning: Citation `Maroco2010' on page 3 undefined on input line 67.
+
 /Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:98: Undefined control sequence.
 l.98     g(\mathbb{E}[\mathbf{Y}]) = \mathbf{X}\bm
                                                   {\beta}
@@ -499,7 +598,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
+LaTeX Warning: Reference `tab:NUTSII' on page 3 undefined on input line 111.
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `tab:NUTSII' on page 3 undefined on input line 154.
 
 [3]
 /Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex:160: Undefined control sequence.
@@ -2719,7 +2824,6 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[6]
 
 main.bbl:329: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -2930,6 +3034,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+[6]
 
 main.bbl:350: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -5215,26 +5320,34 @@ Things are pretty mixed up, but I think the worst is over.
 
 Package natbib Warning: There were undefined citations.
 
-[7] (main.aux)
+[7] (main.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 5514 strings out of 474824
- 80183 string characters out of 5739210
+ 5512 strings out of 474824
+ 80158 string characters out of 5739210
  1942040 words of memory out of 5000000
- 27374 multiletter control sequences out of 15000+600000
+ 27372 multiletter control sequences out of 15000+600000
  611080 words of font info for 167 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,13n,85p,1573b,326s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxb.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxbmi.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxmi.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/rtxr.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/txsy.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/txfonts/txsyb.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (7 pages, 106249 bytes).
+Output written on main.pdf (7 pages, 106725 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
