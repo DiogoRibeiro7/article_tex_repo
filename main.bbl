@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year  (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{53}%
+\begin{thebibliography}{61}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -50,9 +50,72 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
-\bibitem [{\citenamefont {Zhou}\ \emph {et~al.}(2020)\citenamefont {Zhou},
-  \citenamefont {Shao}, \citenamefont {Zhang},\ and\ \citenamefont
-  {Chen}}]{article_zhou}%
+\bibitem [{\citenamefont {Duca}, \citenamefont {Muellbauer},\ and\
+  \citenamefont {Murphy}(2010)}]{DUCA2010203}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~V.}\ \bibnamefont
+  {Duca}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Muellbauer}}, \
+  and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Murphy}},\ }\href
+  {\doibase https://doi.org/10.1016/j.jfs.2010.05.002} {\bibfield  {journal}
+  {\bibinfo  {journal} {Journal of Financial Stability}\ }\textbf {\bibinfo
+  {volume} {6}},\ \unskip\ \bibinfo {pages} {203--217} (\bibinfo {year}
+  {2010})},\ \bibinfo {note} {special Issue:Bank of Finland and SUERF Council
+  of Management "Housing markets-a shelter from the storm or cause of the
+  storm?"}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Eichholtz}\ and\ \citenamefont
+  {Lindenthal}(2014{\natexlab{a}})}]{EICHHOLTZ201419}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Eichholtz}}\ and\ \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Lindenthal}},\ }\href {\doibase https://doi.org/10.1016/j.jhe.2014.06.002}
+  {\bibfield  {journal} {\bibinfo  {journal} {Journal of Housing Economics}\
+  }\textbf {\bibinfo {volume} {26}},\ \unskip\ \bibinfo {pages} {19--32}
+  (\bibinfo {year} {2014}{\natexlab{a}})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ferreira}(2021)}]{ferreira2021dinamica}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~J.~A.}\
+  \bibnamefont {Ferreira}},\ }\enquote {\bibinfo {title} {Din{\^a}mica do
+  mercado imobili{\'a}rio: Fatores determinantes no valor das
+  habita{\c{c}}{\~o}es em portugal},}\ \href@noop {} {Ph.D. thesis},\ \bibinfo
+  {school} {Instituto Politecnico do Porto (Portugal)} \bibinfo {year}
+  {2021}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Adair}, \citenamefont {Berry},\ and\ \citenamefont
+  {McGreal}(1996)}]{adair1996hedonic}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~S.}\ \bibnamefont
+  {Adair}}, \bibinfo {author} {\bibfnamefont {J.~N.}\ \bibnamefont {Berry}}, \
+  and\ \bibinfo {author} {\bibfnamefont {W.~S.}\ \bibnamefont {McGreal}},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal of
+  property Research}\ }\textbf {\bibinfo {volume} {13}},\ \unskip\ \bibinfo
+  {pages} {67--83} (\bibinfo {year} {1996})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Calmasur}(2016)}]{calmasur2016determining}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Calmasur}},\ }\enquote {\bibinfo {title} {Determining factors affecting
+  housing prices in turkey with hedonic pricing model},}\ in\ \href@noop {}
+  {\emph {\bibinfo {booktitle} {International Conference on Business and
+  Economics Studies, Washington DC, USA}}}\ (\bibinfo {year} {2016})\ \unskip,
+  pp.\ \bibinfo {pages} {255--269}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Alkana}\ \emph {et~al.}(2015)\citenamefont {Alkana}
+  \emph {et~al.}}]{alkana2015housing}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Alkana}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {International Journal of Strategic Property Management}\ }\textbf
+  {\bibinfo {volume} {19}},\ \unskip\ \bibinfo {pages} {13--26} (\bibinfo
+  {year} {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {McGreal}\ and\ \citenamefont {Taltavull~de
+  La~Paz}(2013{\natexlab{a}})}]{mcgreal2013implicit}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {McGreal}}\ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Taltavull~de La~Paz}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Urban Studies}\ }\textbf {\bibinfo {volume} {50}},\ \unskip\
+  \bibinfo {pages} {2024--2043} (\bibinfo {year}
+  {2013}{\natexlab{a}})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zhou}\ \emph
+  {et~al.}(2020{\natexlab{a}})\citenamefont {Zhou}, \citenamefont {Shao},
+  \citenamefont {Zhang},\ and\ \citenamefont {Chen}}]{article_zhou}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
   {Zhou}}, \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Shao}}, \bibinfo
@@ -60,7 +123,7 @@
   {\bibfnamefont {J.}~\bibnamefont {Chen}},\ }\href {\doibase
   10.1016/j.landusepol.2019.104410} {\bibfield  {journal} {\bibinfo  {journal}
   {Land Use Policy}\ }\textbf {\bibinfo {volume} {91}},\ p.\ \bibinfo {pages}
-  {104410}02 (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
+  {104410}02 (\bibinfo {year} {2020}{\natexlab{a}})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Rappaport}(2008)}]{rappaport2008consumption}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
@@ -68,6 +131,42 @@
   {Regional Science and Urban Economics}\ }\textbf {\bibinfo {volume} {38}},\
   \unskip\ \bibinfo {pages} {533--552} (\bibinfo {year} {2008})}\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Calcagno}, \citenamefont {Fornero},\ and\
+  \citenamefont {Rossi}(2009)}]{calcagno2009effect}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Calcagno}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Fornero}}, \
+  and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Rossi}},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {The Journal of
+  Real Estate Finance and Economics}\ }\textbf {\bibinfo {volume} {39}},\ p.\
+  \bibinfo {pages} {284} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {e~Pinheiro}(2017)}]{alves}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {e~Pinheiro}},\ }\href@noop {} {\bibinfo {title} {{O Setor Imobiliário em
+  Portugal}},\ }\ \bibinfo {howpublished}
+  {\url{https://www.bancobpi.pt/nocachecontent/conn/UCM/uuid/dDocName:PR_WCS01_UCM01061085}}
+  ( \bibinfo {year} {2017} \unskip),\ \bibinfo {note} {accessed:
+  2020-01-15}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Fuller}, \citenamefont {Johnston},\ and\
+  \citenamefont {Regan}(2020)}]{fuller2020housing}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.~W.}\ \bibnamefont
+  {Fuller}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Johnston}}, \
+  and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Regan}},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {West European
+  Politics}\ }\textbf {\bibinfo {volume} {43}},\ \unskip\ \bibinfo {pages}
+  {297--320} (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
+\bibitem [{INE(9 20)}]{INE}%
+  \BibitemOpen
+  \href {https://www.ine.pt} {\bibinfo {title} {Ine -- instituto nacional de
+  estatística},\ }\  \bibinfo {year} {2019-20} \unskip\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Var{\~a}o}(2019)}]{varao2019determinants}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~M. G. F.~P.}\
+  \bibnamefont {Var{\~a}o}},\ }\enquote {\bibinfo {title} {The determinants of
+  housing prices in portugal between 2000 and 2015},}\ \href@noop {} {Ph.D.
+  thesis} \bibinfo {year} {2019}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Archer}, \citenamefont {Ling},\ and\ \citenamefont
   {Smith}(2010)}]{archer2010ownership}%
   \BibitemOpen
@@ -78,11 +177,140 @@
   Real Estate Finance and Economics}\ }\textbf {\bibinfo {volume} {40}},\
   \unskip\ \bibinfo {pages} {41--61} (\bibinfo {year} {2010})}\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Johnes}\ and\ \citenamefont
+  {Hyclak}(1999)}]{johnes1999house}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Johnes}}\ and\ \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Hyclak}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {The
+  Annals of Regional Science}\ }\textbf {\bibinfo {volume} {33}},\ \unskip\
+  \bibinfo {pages} {33--49} (\bibinfo {year} {1999})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Xiao}, \citenamefont {Hui},\ and\ \citenamefont
+  {Wen}(2020)}]{XIAO2020}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Xiao}}, \bibinfo {author} {\bibfnamefont {E.~C.}\ \bibnamefont {Hui}}, \
+  and\ \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Wen}},\ }\href@noop
+  {} {\bibfield  {journal} {\bibinfo  {journal} {Urban Forestry & Urban
+  Greening}\ }\textbf {\bibinfo {volume} {54}},\ p.\ \bibinfo {pages} {126769}
+  (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zambrano-Monserrate}(2016)}]{zambrano2016formacion}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont
+  {Zambrano-Monserrate}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Cuadernos de Econom{\'\i}a}\ }\textbf {\bibinfo {volume} {39}},\
+  \unskip\ \bibinfo {pages} {12--22} (\bibinfo {year} {2016})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Chasco~Yrigoyen}\ and\ \citenamefont
+  {S{\'a}nchez~Reyes}(2012)}]{chasco2012externalidades}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Chasco~Yrigoyen}}\ and\ \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {S{\'a}nchez~Reyes}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Revista Galega de Econom{\'\i}a}\ }\textbf {\bibinfo {volume}
+  {21}},\ \unskip\ \bibinfo {pages} {1--21} (\bibinfo {year}
+  {2012})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Fitch~Osuna}, \citenamefont {Soto~Canales},\ and\
+  \citenamefont {Garza~Mendiola}(2013)}]{fitch2013valuacion}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~M.}\ \bibnamefont
+  {Fitch~Osuna}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Soto~Canales}}, \ and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Garza~Mendiola}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Estudios demogr{\'a}ficos y urbanos}\ }\textbf {\bibinfo {volume} {28}},\
+  \unskip\ \bibinfo {pages} {383--428} (\bibinfo {year} {2013})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Ermisch}(1996)}]{ermisch1996demand}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Ermisch}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Economica}\ }\unskip\ \bibinfo {pages} {383--404} (\bibinfo {year}
+  {1996})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Bayet}\ \emph {et~al.}(1991)\citenamefont {Bayet},
+  \citenamefont {Guegano}, \citenamefont {Hourriez},\ and\ \citenamefont
+  {Chambaz}}]{bayet1991choix}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Bayet}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Guegano}},
+  \bibinfo {author} {\bibfnamefont {J.-M.}\ \bibnamefont {Hourriez}}, \ and\
+  \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Chambaz}},\ }\href@noop
+  {} {\  (\bibinfo {year} {1991})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Eichholtz}\ and\ \citenamefont
+  {Lindenthal}(2014{\natexlab{b}})}]{eichholtz2014demographics}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Eichholtz}}\ and\ \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Lindenthal}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Journal of housing economics}\ }\textbf {\bibinfo {volume} {26}},\ \unskip\
+  \bibinfo {pages} {19--32} (\bibinfo {year} {2014}{\natexlab{b}})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Brasington}, \citenamefont {Hite},\ and\
+  \citenamefont {Jauregui}(2015)}]{brasington2015house}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~M.}\ \bibnamefont
+  {Brasington}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Hite}}, \
+  and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Jauregui}},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal of
+  Regional Science}\ }\textbf {\bibinfo {volume} {55}},\ \unskip\ \bibinfo
+  {pages} {442--467} (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Gyourko}\ and\ \citenamefont
+  {Linneman}(1996)}]{gyourko1996analysis}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Gyourko}}\ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Linneman}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Journal of Urban Economics}\ }\textbf {\bibinfo {volume} {39}},\ \unskip\
+  \bibinfo {pages} {318--341} (\bibinfo {year} {1996})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Xu}(2017)}]{xu2017relationship}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Xu}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Research
+  in Economics and Management}\ }\textbf {\bibinfo {volume} {2}},\ \unskip\
+  \bibinfo {pages} {30--37} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Katz}\ and\ \citenamefont
+  {Rosen}(1987)}]{katz1987interjurisdictional}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Katz}}\ and\ \bibinfo {author} {\bibfnamefont {K.~T.}\ \bibnamefont
+  {Rosen}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {The
+  Journal of Law and Economics}\ }\textbf {\bibinfo {volume} {30}},\ \unskip\
+  \bibinfo {pages} {149--160} (\bibinfo {year} {1987})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Mar{\^o}co}(2010)}]{Maroco2010}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
   {Mar{\^o}co}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
   {ReportNumber, Lda}\ } (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hawthorn}, \citenamefont {Weber},\ and\ \citenamefont
+  {Scholten}(2001)}]{Reference1}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~J.}\ \bibnamefont
+  {Hawthorn}}, \bibinfo {author} {\bibfnamefont {K.~P.}\ \bibnamefont {Weber}},
+  \ and\ \bibinfo {author} {\bibfnamefont {R.~E.}\ \bibnamefont {Scholten}},\
+  }\href {http://link.aip.org/link/?RSI/72/4477/1} {\bibfield  {journal}
+  {\bibinfo  {journal} {Review of Scientific Instruments}\ }\textbf {\bibinfo
+  {volume} {72}},\ \unskip\ \bibinfo {pages} {4477--4479}12 (\bibinfo {year}
+  {2001})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Arnold}\ \emph {et~al.}(1998)\citenamefont {Arnold},
+  \citenamefont {Wilson}, \citenamefont {Boshier},\ and\ \citenamefont
+  {Smith}}]{Reference3}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~S.}\ \bibnamefont
+  {Arnold}}, \bibinfo {author} {\bibfnamefont {J.~S.}\ \bibnamefont {Wilson}},
+  \bibinfo {author} {\bibfnamefont {M.~G.}\ \bibnamefont {Boshier}}, \ and\
+  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Smith}},\ }\href
+  {http://link.aip.org/link/?RSI/69/1236/1} {\bibfield  {journal} {\bibinfo
+  {journal} {Review of Scientific Instruments}\ }\textbf {\bibinfo {volume}
+  {69}},\ \unskip\ \bibinfo {pages} {1236--1239}3 (\bibinfo {year}
+  {1998})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Wieman}\ and\ \citenamefont
+  {Hollberg}(1991)}]{Reference2}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~E.}\ \bibnamefont
+  {Wieman}}\ and\ \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Hollberg}},\ }\href {http://link.aip.org/link/?RSI/62/1/1} {\bibfield
+  {journal} {\bibinfo  {journal} {Review of Scientific Instruments}\ }\textbf
+  {\bibinfo {volume} {62}},\ \unskip\ \bibinfo {pages} {1--20}1 (\bibinfo
+  {year} {1991})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Duffie}(2019)}]{duffie2019prone}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
@@ -125,21 +353,6 @@
   \bibnamefont {Moreira}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
   {journal} {repositorio-aberto.up.pt}\ } (\bibinfo {year} {2000})}\BibitemShut
   {NoStop}%
-\bibitem [{\citenamefont {Var{\~a}o}(2019)}]{varao2019determinants}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~M. G. F.~P.}\
-  \bibnamefont {Var{\~a}o}},\ }\enquote {\bibinfo {title} {The determinants of
-  housing prices in portugal between 2000 and 2015},}\ \href@noop {} {Ph.D.
-  thesis} \bibinfo {year} {2019}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Adair}, \citenamefont {Berry},\ and\ \citenamefont
-  {McGreal}(1996)}]{adair1996hedonic}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~S.}\ \bibnamefont
-  {Adair}}, \bibinfo {author} {\bibfnamefont {J.~N.}\ \bibnamefont {Berry}}, \
-  and\ \bibinfo {author} {\bibfnamefont {W.~S.}\ \bibnamefont {McGreal}},\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal of
-  property Research}\ }\textbf {\bibinfo {volume} {13}},\ \unskip\ \bibinfo
-  {pages} {67--83} (\bibinfo {year} {1996})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Idealista}(2019)}]{Idealista}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibnamefont {Idealista}},\ }\href
@@ -192,23 +405,6 @@
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal of
   Business Economics and Finance}\ }\textbf {\bibinfo {volume} {3}},\ \unskip\
   \bibinfo {pages} {313--327} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Alkana}\ \emph {et~al.}(2015)\citenamefont {Alkana}
-  \emph {et~al.}}]{alkana2015housing}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
-  {Alkana}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {International Journal of Strategic Property Management}\ }\textbf
-  {\bibinfo {volume} {19}},\ \unskip\ \bibinfo {pages} {13--26} (\bibinfo
-  {year} {2015})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {McGreal}\ and\ \citenamefont {Taltavull~de
-  La~Paz}(2013{\natexlab{a}})}]{mcgreal2013implicit}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {McGreal}}\ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {Taltavull~de La~Paz}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Urban Studies}\ }\textbf {\bibinfo {volume} {50}},\ \unskip\
-  \bibinfo {pages} {2024--2043} (\bibinfo {year}
-  {2013}{\natexlab{a}})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {McGreal}\ and\ \citenamefont {Taltavull~de
   La~Paz}(2013{\natexlab{b}})}]{mcgreal2013implicit2}%
   \BibitemOpen
@@ -218,44 +414,6 @@
   {journal} {Urban Studies}\ }\textbf {\bibinfo {volume} {50}},\ \unskip\
   \bibinfo {pages} {2024--2043} (\bibinfo {year}
   {2013}{\natexlab{b}})}\BibitemShut {NoStop}%
-\bibitem [{INE(9 20)}]{INE}%
-  \BibitemOpen
-  \href {https://www.ine.pt} {\bibinfo {title} {Ine -- instituto nacional de
-  estatística},\ }\  \bibinfo {year} {2019-20} \unskip\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Calcagno}, \citenamefont {Fornero},\ and\
-  \citenamefont {Rossi}(2009)}]{calcagno2009effect}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
-  {Calcagno}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Fornero}}, \
-  and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Rossi}},\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {The Journal of
-  Real Estate Finance and Economics}\ }\textbf {\bibinfo {volume} {39}},\ p.\
-  \bibinfo {pages} {284} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {e~Pinheiro}(2017)}]{alves}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
-  {e~Pinheiro}},\ }\href@noop {} {\bibinfo {title} {{O Setor Imobiliário em
-  Portugal}},\ }\ \bibinfo {howpublished}
-  {\url{https://www.bancobpi.pt/nocachecontent/conn/UCM/uuid/dDocName:PR_WCS01_UCM01061085}}
-  ( \bibinfo {year} {2017} \unskip),\ \bibinfo {note} {accessed:
-  2020-01-15}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Fuller}, \citenamefont {Johnston},\ and\
-  \citenamefont {Regan}(2020)}]{fuller2020housing}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.~W.}\ \bibnamefont
-  {Fuller}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Johnston}}, \
-  and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Regan}},\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {West European
-  Politics}\ }\textbf {\bibinfo {volume} {43}},\ \unskip\ \bibinfo {pages}
-  {297--320} (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Johnes}\ and\ \citenamefont
-  {Hyclak}(1999)}]{johnes1999house}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
-  {Johnes}}\ and\ \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
-  {Hyclak}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {The
-  Annals of Regional Science}\ }\textbf {\bibinfo {volume} {33}},\ \unskip\
-  \bibinfo {pages} {33--49} (\bibinfo {year} {1999})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Robson}(2003)}]{robson2003housing}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~T.}\ \bibnamefont
@@ -269,64 +427,6 @@
   {Borio}}\ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
   {McGuire}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {BIS
   Quarterly Review}\ } (\bibinfo {year} {2004})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Zambrano-Monserrate}(2016)}]{zambrano2016formacion}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont
-  {Zambrano-Monserrate}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Cuadernos de Econom{\'\i}a}\ }\textbf {\bibinfo {volume} {39}},\
-  \unskip\ \bibinfo {pages} {12--22} (\bibinfo {year} {2016})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Chasco~Yrigoyen}\ and\ \citenamefont
-  {S{\'a}nchez~Reyes}(2012)}]{chasco2012externalidades}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
-  {Chasco~Yrigoyen}}\ and\ \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
-  {S{\'a}nchez~Reyes}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Revista Galega de Econom{\'\i}a}\ }\textbf {\bibinfo {volume}
-  {21}},\ \unskip\ \bibinfo {pages} {1--21} (\bibinfo {year}
-  {2012})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Fitch~Osuna}, \citenamefont {Soto~Canales},\ and\
-  \citenamefont {Garza~Mendiola}(2013)}]{fitch2013valuacion}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~M.}\ \bibnamefont
-  {Fitch~Osuna}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
-  {Soto~Canales}}, \ and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
-  {Garza~Mendiola}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Estudios demogr{\'a}ficos y urbanos}\ }\textbf {\bibinfo {volume} {28}},\
-  \unskip\ \bibinfo {pages} {383--428} (\bibinfo {year} {2013})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Ermisch}(1996)}]{ermisch1996demand}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Ermisch}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Economica}\ }\unskip\ \bibinfo {pages} {383--404} (\bibinfo {year}
-  {1996})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Bayet}\ \emph {et~al.}(1991)\citenamefont {Bayet},
-  \citenamefont {Guegano}, \citenamefont {Hourriez},\ and\ \citenamefont
-  {Chambaz}}]{bayet1991choix}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
-  {Bayet}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Guegano}},
-  \bibinfo {author} {\bibfnamefont {J.-M.}\ \bibnamefont {Hourriez}}, \ and\
-  \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Chambaz}},\ }\href@noop
-  {} {\  (\bibinfo {year} {1991})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Eichholtz}\ and\ \citenamefont
-  {Lindenthal}(2014)}]{eichholtz2014demographics}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {Eichholtz}}\ and\ \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
-  {Lindenthal}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Journal of housing economics}\ }\textbf {\bibinfo {volume} {26}},\ \unskip\
-  \bibinfo {pages} {19--32} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Brasington}, \citenamefont {Hite},\ and\
-  \citenamefont {Jauregui}(2015)}]{brasington2015house}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~M.}\ \bibnamefont
-  {Brasington}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Hite}}, \
-  and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Jauregui}},\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal of
-  Regional Science}\ }\textbf {\bibinfo {volume} {55}},\ \unskip\ \bibinfo
-  {pages} {442--467} (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Liu}\ and\ \citenamefont
   {Li}(2018)}]{liu2018determinants}%
   \BibitemOpen
@@ -336,14 +436,6 @@
   Architecture and Building Engineering}\ }\textbf {\bibinfo {volume} {17}},\
   \unskip\ \bibinfo {pages} {299--305} (\bibinfo {year} {2018})}\BibitemShut
   {NoStop}%
-\bibitem [{\citenamefont {Gyourko}\ and\ \citenamefont
-  {Linneman}(1996)}]{gyourko1996analysis}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Gyourko}}\ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {Linneman}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Journal of Urban Economics}\ }\textbf {\bibinfo {volume} {39}},\ \unskip\
-  \bibinfo {pages} {318--341} (\bibinfo {year} {1996})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Chevan}(1982)}]{chevan1982age}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
@@ -358,20 +450,6 @@
   Real Estate Finance and Economics}\ }\textbf {\bibinfo {volume} {8}},\
   \unskip\ \bibinfo {pages} {71--85} (\bibinfo {year} {1994})}\BibitemShut
   {NoStop}%
-\bibitem [{\citenamefont {Xu}(2017)}]{xu2017relationship}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
-  {Xu}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Research
-  in Economics and Management}\ }\textbf {\bibinfo {volume} {2}},\ \unskip\
-  \bibinfo {pages} {30--37} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Katz}\ and\ \citenamefont
-  {Rosen}(1987)}]{katz1987interjurisdictional}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
-  {Katz}}\ and\ \bibinfo {author} {\bibfnamefont {K.~T.}\ \bibnamefont
-  {Rosen}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {The
-  Journal of Law and Economics}\ }\textbf {\bibinfo {volume} {30}},\ \unskip\
-  \bibinfo {pages} {149--160} (\bibinfo {year} {1987})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Hair}\ \emph {et~al.}(2010)\citenamefont {Hair},
   \citenamefont {Black}, \citenamefont {Babin},\ and\ \citenamefont
   {Anderson}}]{Hair2010}%
@@ -383,23 +461,6 @@
   {\bibinfo {title} {Multivariate Data Analysis}}},\ \bibinfo {number} {7}\
   (\bibinfo  {publisher} {New Jersey Pearson},\ \bibinfo {year}
   {2010})\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Calmasur}(2016)}]{calmasur2016determining}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
-  {Calmasur}},\ }\enquote {\bibinfo {title} {Determining factors affecting
-  housing prices in turkey with hedonic pricing model},}\ in\ \href@noop {}
-  {\emph {\bibinfo {booktitle} {International Conference on Business and
-  Economics Studies, Washington DC, USA}}}\ (\bibinfo {year} {2016})\ \unskip,
-  pp.\ \bibinfo {pages} {255--269}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Xiao}, \citenamefont {Hui},\ and\ \citenamefont
-  {Wen}(2020)}]{XIAO2020}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
-  {Xiao}}, \bibinfo {author} {\bibfnamefont {E.~C.}\ \bibnamefont {Hui}}, \
-  and\ \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Wen}},\ }\href@noop
-  {} {\bibfield  {journal} {\bibinfo  {journal} {Urban Forestry & Urban
-  Greening}\ }\textbf {\bibinfo {volume} {54}},\ p.\ \bibinfo {pages} {126769}
-  (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {de~Portugal}(2020)}]{BancoPortugal1}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
@@ -461,6 +522,26 @@
   {Knaap}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal
   of Urban Economics}\ }\textbf {\bibinfo {volume} {54}},\ \unskip\ \bibinfo
   {pages} {218--238} (\bibinfo {year} {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zhou}\ \emph
+  {et~al.}(2020{\natexlab{b}})\citenamefont {Zhou}, \citenamefont {Shao},
+  \citenamefont {Zhang},\ and\ \citenamefont {Chen}}]{article2}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
+  {Zhou}}, \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Shao}}, \bibinfo
+  {author} {\bibfnamefont {X.}~\bibnamefont {Zhang}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Chen}},\ }\href {\doibase
+  10.1016/j.landusepol.2019.104410} {\bibfield  {journal} {\bibinfo  {journal}
+  {Land Use Policy}\ }\textbf {\bibinfo {volume} {91}},\ p.\ \bibinfo {pages}
+  {104410}02 (\bibinfo {year} {2020}{\natexlab{b}})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Costa~e Silva}, \citenamefont {Correia},\ and\
+  \citenamefont {Borges}(2021)}]{silva2021clusters}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Costa~e Silva}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Correia}}, \ and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Borges}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Axioms
+  -- aceite para publicação}\ } (\bibinfo {year} {2021})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Reis}(2001)}]{reis2001estatistica}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont

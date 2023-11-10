@@ -3,6 +3,7 @@
 \usepackage[numbers]{natbib}
 \usepackage{rotating}
 \usepackage{graphicx}
+\usepackage{xcolor}
 \usepackage{threeparttable} % Include threeparttable package for notes
 \usepackage{breqn}
 
@@ -19,8 +20,8 @@
 \eaddress{vlima@estg.ipp.pt, URL: https://ciicesi.estg.ipp.pt/}
 \author[aff2]{Diogo Ribeiro}
 \eaddress{diogo.ribeiro@mysense.ai, URL: https://www.mysense.ai}
-\affil[aff1]{CIICESI, ESTG, Politécnico do Porto 
-Rua do Curral, Casa do Curral, Margaride, 4610--156 Felgueiras -- Portugal 
+\affil[aff1]{CIICESI, ESTG, Politécnico do Porto, 
+Rua do Curral, Casa do Curral,\\ Margaride, 4610--156 Felgueiras -- Portugal 
 }
 \affil[aff2]{MySense, UK}
 \corresp[cor1]{Corresponding author: aic@estg.ipp.pt}
@@ -28,125 +29,129 @@ Rua do Curral, Casa do Curral, Margaride, 4610--156 Felgueiras -- Portugal
 \maketitle
 
 \begin{abstract}
-    This study provides decision-making support in the Portuguese housing sector, serving both individual and political stakeholders. For individuals—buyers and investors alike—it offers insights for informed purchasing and investment decisions. Politically, it guides municipal through to national policymakers on housing promotion, renewal, and rehabilitation strategies. Utilizing data from PORDATA for all 308 Portuguese municipalities, a multiple linear regression model identifies key factors influencing municipal housing values. These include location, population density, local purchasing power, family size, unemployment rates, environmental quality, population aging, education levels, civil status, homeowner ratios, and housing availability. The methodical approach aims to quantify how these variables collectively impact housing market dynamics at the municipal level.
-
-
+    This study provides decision-making support in the Portuguese housing sector, serving both individual and political stakeholders. For individuals -- buyers and investors alike -- it offers insights for informed purchasing and investment decisions. Politically, it guides municipal through to national policymakers on housing promotion, renewal, and rehabilitation strategies. Considering data from PORDATA for all 308 Portuguese municipalities, a multiple linear regression model identifies key factors influencing municipal housing comercial transactions values. These include location, population density, local purchasing power, family size, unemployment rates, environmental quality, population aging, education levels, civil status, homeowner ratios, and housing availability. The methodical approach aims to quantify how these variables collectively impact housing market dynamics at the municipal level. The study evaluates multiple variables influencing the transaction values of housing in various municipalities. These include the location, population density, purchasing power, average family size, unemployment rates, environmental quality, aging population, education level, marital status, percentage of owner-occupied houses, and the total housing stock available. The analysis reveals that most of these factors bear significance, except for population density and environmental quality, which appear to have negligible effects on the municipalities' average housing transaction values.
 \textbf{Keywords}: Housing Price, Portugal, Multiple Linear regression, Decision making, Housing policy, Data analysis.
 \end{abstract}
 
 % Head 1
 \section{INTRODUCTION}
-Housing is crucial for personal and societal stability, a fact underscored by the 2007 financial crisis which highlighted the connections between housing markets and economic stability. The crisis led to tougher credit, reduced liquidity, and economic distress, affecting homeownership and increasing foreclosures. Post-crisis, ensuring the right to housing against such shocks has become a policy focus.
-
-Societal changes increase the demand for housing that meets modern standards and personal needs, including location, sustainability, and technological needs. This demand shapes market preferences influenced by demographic shifts, economic trends, cultural changes, and policy reforms. Such insights are vital for stakeholders to address housing issues, with preferences affecting property values and market dynamics.
-
+Housing is crucial for personal and societal stability, a fact underscored by the 2007 financial crisis which highlighted the connections between housing markets and economic stability \cite{DUCA2010203}. The crisis led to tougher credit, reduced liquidity, and economic distress, affecting homeownership and increasing foreclosures \cite{DUCA2010203}. Post-crisis, ensuring the right to housing against such shocks has become a policy focus \cite{DUCA2010203}.
+%
+Societal changes increase the demand for housing that meets modern standards and personal needs, including location, sustainability, and technological needs. This demand shapes market preferences influenced by demographic shifts, economic trends, cultural changes, and policy reforms. Such insights are vital for stakeholders to address housing issues, with preferences affecting property values and market dynamics \cite{EICHHOLTZ201419}.
+%
 The study focuses on how municipal characteristics in Portugal affect housing values, filling a research gap on local-level analysis. It assesses the influence of these traits on price trends and categorizes municipalities by average transaction values. This research aids buyers, investors, and policymakers with data for better decision-making and informs housing policy development.
 
 \section{\uppercase{Factors influencing the value of housing}}
 
-This paper includes a bibliometric analysis conducted in January 2021, using the Web of Science database to explore the prevalence of "housing prices" as a research topic. The initial search yielded 2,369 records, which, after refining to only scholarly articles, resulted in 2,003 publications for review. The earliest article dates back to 1972, with a marked increase in interest observed from 1995 and a significant uptick in research activity in the early 21st century. This growing interest likely correlates with global housing market volatility and the disparity between housing prices and income growth.
-As of June 30, 2021, the number of articles published in 2021 alone reached 140, representing 6.272\% of all publications on this topic to date. The authors contributing most prolifically to this field include Hui, Tsai, Gupta, Song, Wen, Glaeser, Su, Zhang, Chau, and Quigley, reflecting a diverse geographic interest spanning the USA, China, Spain, South Korea, the UK, Taiwan, Australia, Canada, and Portugal.
-The paper also delves into the determinants of transactional housing values, highlighting contributions from both international and regional studies. A special focus is placed on municipal-level research, which remains sparse, suggesting that this work provides both innovative and theoretical contributions.
-In summarizing the factors affecting housing prices, location emerges as a key determinant. It's noted that quality of life, influenced by factors such as proximity to natural resources and amenities, significantly impacts housing values. Comprehensive studies using hedonic pricing models and GIS for spatial adjustments offer insights into environmental and neighborhood attributes' effects on prices. For instance, the proximity to destinations, views, and air quality have been emphasized as pivotal in determining the willingness to pay for housing. The paper underscores the relevance of location in housing acquisition, evidenced by studies on Istanbul and Ankara's housing markets, and corroborates these findings with extensive data analysis across various Spanish provinces using STAR and GLM methodologies.
+According with Ferreira (2021) \cite{ferreira2021dinamica}, where a bibliometric analysis is conducted in January 2021, using the Web of Science database to explore the prevalence of "housing prices" as a research topic, the earliest article dates back to 1972, with a marked increase in interest observed from 1995 and a significant uptick in research activity in the early 21st century. This growing interest likely correlates with global housing market volatility and the disparity between housing prices and income growth.
+%As of June 30, 2021, the number of articles published in 2021 alone reached 140, representing 6.272\% of all publications on this topic to date.  The authors contributing most prolifically to this field include Hui \textcolor{red}{colocar referências correspondentes}. , Tsai, Gupta \cite{gupta2010effect}, Song, Wen, Glaeser, Su, Zhang, Chau, and Quigley, reflecting a diverse geographic interest spanning the USA, China, Spain, South Korea, the UK, Taiwan, Australia, Canada, and Portugal.
+This paper delves into the determinants of transactional housing values, highlighting contributions from both international and regional studies. A special focus is placed on municipal-level research, which remains sparse, suggesting that this work provides both pratical and theoretical contributions.
+In summarizing the factors affecting housing prices, location \cite{adair1996hedonic} emerges as a key determinant. It's noted that quality of life  \cite{calmasur2016determining}, influenced by factors such as proximity to natural resources and amenities, significantly impacts housing values. Comprehensive studies using hedonic pricing models and GIS for spatial adjustments offer insights into environmental and neighborhood attributes' effects on prices \cite{adair1996hedonic}. For instance, the proximity to destinations, views, and air quality  \cite{calmasur2016determining} have been emphasized as pivotal in determining the willingness to pay for housing. The paper underscores the relevance of location in housing acquisition, evidenced by studies on Istanbul and Ankara's  \cite{alkana2015housing} housing markets, and corroborates these findings with extensive data analysis across various Spanish provinces using STAR and GLM methodologies  \cite{mcgreal2013implicit}.
 
 Zhou et al.\cite{article_zhou} identified a significant positive correlation between housing prices and population density in 283 Chinese cities, positing that higher housing prices and denser populations are pivotal for increased productivity.
-Rappaport\cite{rappaport2008consumption} highlighted the influence of population density on U.S. housing prices, observing various endogenous factors that co-vary with it, such as a slight decrease in wages, moderate house price increases, and sharp land price ascensions. High quality of living seems to be capitalized in land and house prices rather than wages. Calcagno et al.\cite[calcagno2009effect] found that Italian household consumption correlates with housing capital gains, especially in younger households, suggesting different impacts of housing price increases on rental expectations.
-In Portugal, improved accessibility to housing markets contrasts with the community averages, despite a tendency towards higher effort rates, as indicated by Alves and Pinheiro (2017). They credit the job market's recovery for bolstering household incomes, thereby invigorating the real estate market. McGreal and Taltavull de La Paz (2013) emphasized income, accessibility, and structural features as pivotal to housing prices.
-Fuller et al.\cite[fuller2020housing] discuss the relationship between housing prices, wealth indices, and financial asset price changes in Western Europe, predicting a significant impact on future generations. According to INE, household mobility demands are shaped by changes in family size and demographic shifts, with Varão\cite[varao2019determinants] attributing house price variability to demographic factors such as immigration and birth rates. Archer et al.\cite{archer2010ownership} found family size to be a dominant factor affecting housing prices in the Chicago market.
-Johnes and Hyclak (1999) related average industry wages, unemployment rates, workforce strength, and average house prices in urban areas, finding interplays between local housing and labor markets, with unemployment and workforce strength affecting house prices in specific U.S. regions.
+Rappaport  \cite{rappaport2008consumption} highlighted the influence of population density on U.S. housing prices, observing various endogenous factors that co-vary with it, such as a slight decrease in wages, moderate house price increases, and sharp land price ascensions. High quality of living seems to be capitalized in land and house prices rather than wages. Calcagno et al.\cite{calcagno2009effect} found that Italian household consumption correlates with housing capital gains, especially in younger households, suggesting different impacts of housing price increases on rental expectations.
+In Portugal, improved accessibility to housing markets contrasts with the community averages, despite a tendency towards higher effort rates, as indicated by Alves and Pinheiro \cite{alves}. They credit the job market's recovery for bolstering household incomes, thereby invigorating the real estate market. McGreal and Taltavull de La Paz \cite{mcgreal2013implicit} emphasized income, accessibility, and structural features as pivotal to housing prices.
+Fuller et al. \cite{fuller2020housing} discuss the relationship between housing prices, wealth indices, and financial asset price changes in Western Europe, predicting a significant impact on future generations. According to  National Statistics Institute (INE) \textcolor{red}{Mais abaixo aparecia a descrição completa, deve ser na primeira vez que aparece.}  \cite{INE}, household mobility demands are shaped by changes in family size and demographic shifts, with Varão \cite{varao2019determinants} attributing house price variability to demographic factors such as immigration and birth rates. Archer et al. \cite{archer2010ownership} found family size to be a dominant factor affecting housing prices in the Chicago market.
+Johnes and Hyclak \cite{johnes1999house} related average industry wages, unemployment rates, workforce strength, and average house prices in urban areas, finding interplays between local housing and labor markets, with unemployment and workforce strength affecting house prices in specific U.S. regions.
 These insights collectively formulate research hypotheses investigating the relationship between population density, purchasing power, family size, and unemployment with housing values, providing a multifaceted view of the housing market's undercurrents.
 
-This review synthesizes findings from multiple studies on the impact of external factors on real estate values. Xiao et al.\cite{XIAO2020} employed a hedonic pricing model and spatial econometric model, finding that noisy public square dancing in Hangzhou, China, depreciates nearby housing prices by 5.8\% to 13\%. In contrast, Zambrano-Monserrate's\cite{zambrano2016formacion} study in Machala, Ecuador, emphasized the significance of public services like water supply and waste collection for rental apartment markets. In Madrid, Chasco Yrigoyen and Sánchez Reyes (2012) observed that air pollution negatively affects housing prices across all quantiles, with noise pollution only impacting luxury homes' prices. Fitch Osuna et al. (2013) explored real estate dynamics in San Nicolás de los Garza, Mexico, noting an increase in housing prices in noisier areas, suggesting demographic and location preferences outweigh other factors.
-Ermisch (1996) highlighted the implications of aging demographics on housing demand in Britain, suggesting a substantial slowdown in growth rates due to population aging. Bayet et al. (1991) placed housing expenses as a primary concern for younger and older age groups in family budgets. Eichholtz and Lindenthal (2014) attributed high education, good health, and high income to sustained housing demand among aging populations in Europe. Conversely, Brasington et al. (2015) and Gyourko \& Linneman (1996) found that higher educational attainment increases housing demand, suggesting a strong correlation between market values and educational levels.
+This review synthesizes findings from multiple studies on the impact of external factors on real estate values. Xiao et al. \cite{XIAO2020} employed a hedonic pricing model and spatial econometric model, finding that noisy public square dancing in HangVarão, China, depreciates nearby housing prices by 5.8\% to 13\%. In contrast, Zambrano-Monserrate's \cite{zambrano2016formacion} study in Machala, Ecuador, emphasized the significance of public services like water supply and waste collection for rental apartment markets. In Madrid, Chasco Yrigoyen and Sánchez Reyes \cite{chasco2012externalidades} observed that air pollution negatively affects housing prices across all quantiles, with noise pollution only impacting luxury homes' prices. Fitch Osuna et al. \cite{fitch2013valuacion} explored real estate dynamics in San Nicolás de los Garza, Mexico, noting an increase in housing prices in noisier areas, suggesting demographic and location preferences outweigh other factors.
+Ermisch \cite{ermisch1996demand} highlighted the implications of aging demographics on housing demand in Britain, suggesting a substantial slowdown in growth rates due to population aging. Bayet et al. \cite{bayet1991choix} placed housing expenses as a primary concern for younger and older age groups in family budgets. Eichholtz and Lindenthal \cite{eichholtz2014demographics} attributed high education, good health, and high income to sustained housing demand among aging populations in Europe. Conversely, Brasington et al. \cite{brasington2015house} and Gyourko \& Linneman \cite{gyourko1996analysis} found that higher educational attainment increases housing demand, suggesting a strong correlation between market values and educational levels.
 These diverse studies collectively support the hypothesis that environmental quality, demographic shifts, and educational levels significantly influence housing values. This integration of global research presents a nuanced understanding of real estate economics, highlighting the complex interplay between urban externalities and market behaviors.
-In his research conducted in China, Xu (2017) indicates that when the housing supply is at or near maximum capacity, there is increased pressure on supply, which can indeed drive up home prices. Katz and Rosen (1987) empirically demonstrated, using a large dataset on housing in the San Francisco Bay Area of California, that construction levies appear to have a significant impact on home prices. Their regression model's results suggest that home prices are between 17\% and 38\% higher in communities where growth moratoria and/or growth control plans are in place. The widespread use of such fees, in many communities, restricts the available supply response. The spread of these growth regulatory techniques to metropolitan areas outside California may have substantial negative effects on housing affordability (Katz and Rosen 1987).
+In his research conducted in China, Xu \cite{xu2017relationship} indicates that when the housing supply is at or near maximum capacity, there is increased pressure on supply, which can indeed drive up home prices. Katz and Rosen \cite{red}{katz1987interjurisdictional} empirically demonstrated, using a large dataset on housing in the San Francisco Bay Area of California, that construction levies appear to have a significant impact on home prices. Their regression model's results suggest that home prices are between 17\% and 38\% higher in communities where growth moratoria and/or growth control plans are in place. The widespread use of such fees, in many communities, restricts the available supply response. The spread of these growth regulatory techniques to metropolitan areas outside California may have substantial negative effects on housing affordability (Katz and Rosen 1987)  \cite{katz1987interjurisdictional}.
 
-\section{Theoretical Framework for Multivariate Linear Regression Using Ordinary Least Squares}
+\section{\uppercase{Model Theoretical Framework}}
 
 \subsection{Ordinary Least Squares Estimation}
-Maroco\cite{Maroco2010} referes to Ordinary Least Squares (OLS) estimation technique has the cornerstone for conducting multivariate linear regression analysis. It estimates the parameters of a linear model that predicts a single response variable from multiple explanatory variables. The primary goal is to minimize the sum of the squares of the differences between the observed dependent variable and those predicted by the linear model.
 
-\subsubsection{Model Specification}
-The general form of the multivariate linear regression model is expressed as:
-\begin{equation}
-    \mathbf{Y} = \mathbf{X\beta} + \boldsymbol{\epsilon}
-\end{equation}
-where $\mathbf{Y}$ is an $n \times 1$ vector of the dependent variable, $\mathbf{X}$ is an $n \times k$ matrix of independent variables for $n$ observations across $k$ predictors, $\boldsymbol{\beta}$ is a $k \times 1$ vector of regression coefficients to be estimated, and $\boldsymbol{\epsilon}$ is an $n \times 1$ vector of the residuals or errors of the model.
+Ordinary Least Squares (OLS) estimation technique has the cornerstone for conducting multiple linear regression analysis (Maroco\cite{Maroco2010}. It estimates the parameters of a linear model, that predicts a single response variable from multiple explanatory variables. The primary goal is to minimize the sum of the squares of the differences between the observed dependent variable and those predicted by the linear model.
 
-\subsubsection{Estimation and Properties}
+%\subsubsection{Model Specification}
+The general form of the multiple linear OLS regression model is expressed as:
+$
+    \mathbf{Y} = \mathbf{X}\times \boldsymbol{\beta} + \boldsymbol{\epsilon}
+$,
+where $\mathbf{Y}$ is an $n \times 1$ vector of the dependent variable, $\mathbf{X}$ is an $n \times k$ matrix of independent variables for $n$ observations across $k$ predictors  \textcolor{red}{Usar esta palavra em cima}, $\boldsymbol{\beta}$ is a $k \times 1$ vector of regression coefficients to be estimated, and $\boldsymbol{\epsilon}$ is an $n \times 1$ vector of the residuals or errors of the model.
+
+%\subsubsection{Estimation and Properties}
 The OLS estimator is given by:
-\begin{equation}
-    \hat{\boldsymbol{\beta}} = (\mathbf{X'X})^{-1}\mathbf{X'Y}
-\end{equation}
-This estimator is known to be the Best Linear Unbiased Estimator (BLUE), provided that the Gauss-Markov theorem's assumptions are satisfied. These include the absence of perfect multicollinearity, homoscedasticity, and uncorrelated error terms with a zero conditional mean.
+%
+ \textcolor{red}{Colocar as fórmulas em linha com o texto senão não temos espaço suficiente}
+ 
+$\hat{\boldsymbol{\beta}} = (\mathbf{X'X})^{-1}\mathbf{X'Y}$.
+%
+This estimator is known to be the Best Linear Unbiased Estimator (BLUE), provided \textcolor{red}{(desde que?)} that the Gauss-Markov theorem's assumptions are satisfied. These include the absence of  multicollinearity, homoscedasticity, and uncorrelated error terms with normal distribution ans a zero conditional mean.
+%
+%\subsubsection{}
+The Goodness-of-Fit of the regression model is usually quantified by the coefficient of determination $R^2$, and the adjusted $R^2$ which provides a measure adjusted for the number of predictors. An F-test is used to determine the overall significance of the model parameters.
+%
+%\subsubsection{Assumptions Verification}
+Verifying the assumptions underlying the OLS estimator is crucial for the reliability of the model. 
+%This involves the examination of residuals for normality, constant variance (homoscedasticity), and independence. The Variance Inflation Factor (VIF) is used to assess the degree of multicollinearity among predictors.
+%\subsubsection{Implications}
+The regression coefficients estimated from OLS regression reflect the expected average effect of one unit change in the independent variable on the dependent variable, with other variables held constant. The interpretation of these coefficients should consider the study design and data characteristics, especially since the presence of bias can arise from any violations of the OLS assumptions.
 
-\subsubsection{Goodness-of-Fit}
-The fit of the regression model is usually quantified by the coefficient of determination $R^2$, and the adjusted $R^2$ which provides a measure adjusted for the number of predictors. An F-test is used to determine the overall significance of the model parameters.
+\subsection{Generalized Linear Models}
+While OLS is traditionally applied to models with continuous and normally distributed residuals, with the assumptions refered, the regression framework can be extended to models with non-normal residual distributions or non-linear relationships. Such generalizations are termed Generalized Linear Models (GLM), which accommodate various types of data by linking a function of the mean of the response variable to the linear predictor through a link function.
 
-\subsubsection{Assumptions Verification}
-Verifying the assumptions underlying the OLS estimator is crucial for the reliability of the model. This involves the examination of residuals for normality, constant variance (homoscedasticity), and independence. The Variance Inflation Factor (VIF) is used to assess the degree of multicollinearity among predictors.
-\subsubsection{Implications}
-The regression coefficients estimated from OLS regression reflect the average effect of one unit change in the independent variable on the dependent variable, with other variables held constant. The interpretation of these coefficients should consider the study design and data characteristics, especially since the presence of bias can arise from any violations of the OLS assumptions.
-
-\subsection{Generalization to Other Models}
-While OLS is traditionally applied to continuous and normally distributed response variables, the regression framework can be extended to models with non-normal response distributions or non-linear relationships. Such generalizations are termed Generalized Linear Models (GLM), which accommodate various types of data by linking a function of the mean of the response variable to the linear predictor through a link function.
-
-The GLM is expressed as:
-\begin{equation}
+The GLM is expressed as: $
     g(\mathbb{E}[\mathbf{Y}]) = \mathbf{X}\bm{\beta}
-\end{equation}
-where \(g(\cdot)\) is a monotonic and differentiable link function. This broadens the scope of regression analysis to include binary, count, and other types of outcomes by using appropriate link functions and distributional assumptions.
+$,
+where \(g(\cdot)\) is a monotonic  \textcolor{red}{O que é isto? Monótona?} and differentiable link function. This broadens the scope of regression analysis to include binary, count, and other types of outcomes by using appropriate link functions and distributional assumptions.
 
-\subsubsection{Implications}
-The interpretation of estimated coefficients in the context of GLMs must account for the link function used. For instance, in logistic regression—a special case of GLM with a binary outcome—the coefficients represent the log odds of the outcome per unit change in the predictor, holding other predictors constant. As with OLS, the accurate interpretation of these models necessitates careful consideration of model assumptions and potential estimation biases.
+%\subsubsection{Implications}
+The interpretation of estimated coefficients in the context of GLMs must account for the link function used. For instance, in logistic regression -- a special case of GLM with a binary outcome -- the coefficients represent the log odds of the outcome per unit change in the predictor, holding other predictors constant. As with OLS, the accurate interpretation of these models necessitates careful consideration of model assumptions and potential estimation biases.
 
 
 % Head 2
 \section{\uppercase{Data and Results}}
 \subsection{Data}
-The population dynamics of Portugal, as reported by the National Statistics Institute (INE) in 2017, reveal a gendered count of 10,291,027 with a declining trend since 2010, slightly mitigated in recent years. An aging demographic is evident with a rise in the median age from 42.7 to 44.2 years between 2012 and 2017. 
-
-This study utilizes data from the PORDATA database, specifically from the year 2017, which is the latest available year for most variables relevant to the research literature. Data covers all 308 municipalities in Portugal, including mainland Portugal, the Autonomous Region of the Azores, and the Autonomous Region of Madeira. The data's spatial distribution is summarized as follows:
+The population dynamics of Portugal, as reported by the INE in 2017, reveal a gendered count of 10,291,027 with a declining trend since 2010, slightly mitigated in recent years. An aging demographic is evident with a rise in the median age from 42.7 to 44.2 years between 2012 and 2017. 
+%
+This study utilizes data from the PORDATA database, specifically from the year 2017, which is the latest available year for most variables relevant to the research literature. Data covers all 308 municipalities in Portugal, including mainland Portugal, the Autonomous Region of the Azores, and the Autonomous Region of Madeira. The data's spatial distribution is summarized as ilustrated in Table \ref{tab:NUTSII}. %follows:
 
 \begin{table}[h!]
+\parbox{.45\linewidth}{
 \centering
 \begin{tabular}{ccc}
-\toprule
-NUTS I & Frequency & Percentage \\ 
-\midrule
+\hline
+\textbf{NUTS I} & \textbf{Frequency} & \textbf{Percentage} \\ 
+\hline
 Continente & 278 & 90.3 \\
-Região Autónoma da Madeira & 11 & 3.6 \\
-Região Autónoma dos Açores & 19 & 6.2 \\
+Madeira & 11 & 3.6 \\
+A\c{c}ores & 19 & 6.2\\
+\hline
 Total & 308 & 100.0 \\ 
-\bottomrule
+\hline
 \end{tabular}
-\caption{Distribution of Municipalities by NUTS I}
-\label{tab:my_label}
+\caption{Distribution of Municipalities by NUTS I and II}
+\label{tab:NUTSII}
+}
+\hfill
+\parbox{.45\linewidth}{
+\centering
+\begin{tabular}{ccc}
+\hline
+NUTS II & Frequency & Percentage \\ 
+\hline
+Alentejo & 58 & 18.8 \\
+Algarve & 16 & 5.2 \\
+Lisboa & 18 & 5.8 \\
+Centro & 100 & 32.5 \\
+Norte & 86 & 27.9 \\
+Madeira & 11 & 3.6 \\
+A\c{c}ores  & 19 & 6.2 \\
+\hline
+Total & 308 & 100.0 \\
+\hline
+\end{tabular}
+}
 \end{table}
+
 
 The variables related to location are converted into ordinal variables, labeled as follows for NUTS I, II, and III, indicating their respective continental and regional distributions. The assignment of ordinal values to these spatial categories aids in the structured analysis of location-based trends within the dataset.
 
-For NUTS II, the distribution is provided in the subsequent table:
-
-\begin{table}[h!]
-\centering
-\begin{tabular}{ccc}
-\toprule
-NUTS II & Frequency & Percentage \\ 
-\midrule
-Alentejo & 58 & 18.8 \\
-Algarve & 16 & 5.2 \\
-Área Metropolitana de Lisboa & 18 & 5.8 \\
-Centro & 100 & 32.5 \\
-Norte & 86 & 27.9 \\
-Região Autónoma da Madeira & 11 & 3.6 \\
-Região Autónoma dos Açores & 19 & 6.2 \\
-Total & 308 & 100.0 \\ 
-\bottomrule
-\end{tabular}
-\caption{Distribution of Municipalities by NUTS II}
-\label{tab:my_label_1}
-\end{table}
+For NUTS II, the distribution is provided in the subsequent table \ref{tab:NUTSII}.
 
 The study's dependent variable, housing value, is represented by the Average Value of Property Transactions VMPT across municipalities. Additionally, a range of determinants such as population density, purchasing power, family size, unemployment, environmental quality, aging, education level, marital status, home ownership, and existing housing are considered, all of which are quantified according to data from the 2011 Census and PORDATA resources. %The methodological approach also involves the computation of new indices to reflect municipal realities better, acknowledging the limitations due to the lack of panel data for certain variables. These computations are detailed for variables such as the Environmental Quality Index IQA and proportions of housing types among residents, as shown in the following table:
 \begin{table}[h!]

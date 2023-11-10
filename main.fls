@@ -26,6 +26,14 @@ INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/rotating.sty
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/threeparttable/threeparttable.sty
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/threeparttable/threeparttable.sty
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/breqn/breqn.sty
@@ -214,6 +222,9 @@ INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/font
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxptmbi.tfm
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/public/txfonts/txmi.vf
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxmi.tfm
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/public/txfonts/txmi.vf
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxmi.tfm
+INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxptmri.tfm
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txr.tfm
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmi.tfm
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmi.tfm
@@ -234,9 +245,6 @@ INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/font
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyc.tfm
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txexa.tfm
 INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txexa.tfm
-INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/public/txfonts/txmi.vf
-INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxmi.tfm
-INPUT /Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/rtxptmri.tfm
 INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT main.bbl

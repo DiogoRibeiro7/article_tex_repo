@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 0 "main.aux" "main.bbl" "main" 0 -1
+["bibtex main"] 1699635910 "main.aux" "main.bbl" "main" 1699635912 0
   "./aipnum-cp.bst" 1699358059 76321 98d9c190e9e61d0f2c2891fdbc2c673a ""
-  "./sample.bib" 1699617015 14446 965ea58a6a3b28b81e1479457a733fa9 ""
-  "main.aux" 1699617484 6614 b650c82282a51c04d79a15686ad027fb "pdflatex"
+  "./sample.bib" 1699633979 20807 085f9a66cf40f077dbb2c39cee66b450 ""
+  "main.aux" 1699635911 7330 f49cce2f8da4001a3081615a15601b50 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1699617483 "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" "main.pdf" "main" 1699617485 2
+["pdflatex"] 1699635911 "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" "main.pdf" "main" 1699635912 2
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1699569920 82560 ef239c2cb0a12117bb5525d1036b4375 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1699285560 24186847 12d8f027a383120b3d56b7cb8728ac74 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc" 1698324500 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
@@ -67,11 +67,13 @@
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/breqn/flexisym.sty" 1699569920 17550 b57de3b936fb161a9855142a7208bf94 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/breqn/mathstyle.sty" 1699569920 7823 864ad2c18b8411aa98aa621ee28769b6 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1698324502 13886 d1306dcf79a944f6988e688c1785f9ce ""
+  "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg" 1698324503 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg" 1698324503 1224 978390e9c2234eab29404bc21b268d1e ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def" 1698324503 19448 1e988b341dda20961a6b931bcde55519 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty" 1698324503 18387 8f900a490197ebaf93c02ae9476d4b09 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty" 1698324503 8010 a8d949cbdbc5c983593827c9eec252e1 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty" 1698324503 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
+  "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx" 1698324503 3171 1cf0d440b5464e2f034398ce4ef36f75 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/rotating.sty" 1698324503 7060 497c495d7b832441a479571bbce898ae ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty" 1698324503 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def" 1698324504 29988 e1e28a7c88c8840671272f7848aef0d6 ""
@@ -89,11 +91,12 @@
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsya.fd" 1699353485 310 cee07e4964749ccbc77d84fc49726a79 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyb.fd" 1699353485 310 8c5467c8932c259af51b0f116c9734bd ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyc.fd" 1699353485 310 4b5d6fe830337242ef847b3bff48ba21 ""
-  "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" 1699617479 24993 346038737fb4571ddbfd3b167eda57e2 ""
+  "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1698324521 56148 51a9a8571c07b9921892ae11063ae853 ""
+  "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" 1699635910 26358 68a10a0ca7806b9644943d1ba90b0766 ""
   "aip-cp.cls" 1699353300 34293 19e04de8854ed49347766731bb009cba ""
-  "main.aux" 1699617484 6614 b650c82282a51c04d79a15686ad027fb "pdflatex"
-  "main.bbl" 1699617427 26752 f7980dc614b533acad50081d133ea2b0 "bibtex main"
-  "main.tex" 1699617479 24993 346038737fb4571ddbfd3b167eda57e2 ""
+  "main.aux" 1699635911 7330 f49cce2f8da4001a3081615a15601b50 "pdflatex"
+  "main.bbl" 1699635911 31744 d32a75d7eb24b0fb08abcedb8d933e81 "bibtex main"
+  "main.tex" 1699635910 26358 68a10a0ca7806b9644943d1ba90b0766 ""
   (generated)
   "main.aux"
   "main.log"
