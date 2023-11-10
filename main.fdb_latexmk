@@ -1,13 +1,13 @@
 # Fdb version 4
 ["bibtex main"] 0 "main.aux" "main.bbl" "main" 0 -1
   "./aipnum-cp.bst" 1699358059 76321 98d9c190e9e61d0f2c2891fdbc2c673a ""
-  "./sample.bib" 1699641108 20500 4fb6908efb592021ceeb552ab5c1862a ""
-  "main.aux" 1699641109 7154 c7daa3ada6ec917252c467104e7869ec "pdflatex"
+  "./sample.bib" 1699641527 17916 a65ddb516ed6d1184470b4891a0164fb ""
+  "main.aux" 1699641536 6909 30af4c60eae5420d32751817cb369f2d "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1699641108 "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" "main.pdf" "main" 1699641110 2
+["pdflatex"] 1699641536 "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" "main.pdf" "main" 1699641537 2
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1699569920 82560 ef239c2cb0a12117bb5525d1036b4375 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1699285560 24186847 12d8f027a383120b3d56b7cb8728ac74 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc" 1698324500 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
@@ -94,8 +94,8 @@
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1698324521 56148 51a9a8571c07b9921892ae11063ae853 ""
   "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" 1699638267 26358 68a10a0ca7806b9644943d1ba90b0766 ""
   "aip-cp.cls" 1699353300 34293 19e04de8854ed49347766731bb009cba ""
-  "main.aux" 1699641109 7154 c7daa3ada6ec917252c467104e7869ec "pdflatex"
-  "main.bbl" 1699641107 30830 51cab20250e71e5faf5b4c11184a2944 "bibtex main"
+  "main.aux" 1699641536 6909 30af4c60eae5420d32751817cb369f2d "pdflatex"
+  "main.bbl" 1699641528 29300 5c520e2d3f5ab9aec1d81cc01193b0ef "bibtex main"
   "main.tex" 1699638267 26358 68a10a0ca7806b9644943d1ba90b0766 ""
   (generated)
   "main.aux"

@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year  (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{60}%
+\begin{thebibliography}{57}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -71,9 +71,14 @@
   {\bibfield  {journal} {\bibinfo  {journal} {Journal of Housing Economics}\
   }\textbf {\bibinfo {volume} {26}},\ \unskip\ \bibinfo {pages} {19--32}
   (\bibinfo {year} {2014}{\natexlab{a}})}\BibitemShut {NoStop}%
-\bibitem [{fer()}]{ferreira2021dinamica}%
+\bibitem [{\citenamefont {Ferreira}(2021)}]{ferreira2021dinamica}%
   \BibitemOpen
-  \href@noop {} {Ph.D. thesis}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~J.~A.}\
+  \bibnamefont {Ferreira}},\ }\enquote {\bibinfo {title} {Din{\^a}mica do
+  mercado imobili{\'a}rio: Fatores determinantes no valor das
+  habita{\c{c}}{\~o}es em portugal},}\ \href@noop {} {Ph.D. thesis},\ \bibinfo
+  {school} {Instituto Politecnico do Porto (Portugal)} \bibinfo {year}
+  {2021}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Adair}, \citenamefont {Berry},\ and\ \citenamefont
   {McGreal}(1996)}]{adair1996hedonic}%
   \BibitemOpen
@@ -274,37 +279,6 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
   {Mar{\^o}co}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
   {ReportNumber, Lda}\ } (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Hawthorn}, \citenamefont {Weber},\ and\ \citenamefont
-  {Scholten}(2001)}]{Reference1}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~J.}\ \bibnamefont
-  {Hawthorn}}, \bibinfo {author} {\bibfnamefont {K.~P.}\ \bibnamefont {Weber}},
-  \ and\ \bibinfo {author} {\bibfnamefont {R.~E.}\ \bibnamefont {Scholten}},\
-  }\href {http://link.aip.org/link/?RSI/72/4477/1} {\bibfield  {journal}
-  {\bibinfo  {journal} {Review of Scientific Instruments}\ }\textbf {\bibinfo
-  {volume} {72}},\ \unskip\ \bibinfo {pages} {4477--4479}12 (\bibinfo {year}
-  {2001})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Arnold}\ \emph {et~al.}(1998)\citenamefont {Arnold},
-  \citenamefont {Wilson}, \citenamefont {Boshier},\ and\ \citenamefont
-  {Smith}}]{Reference3}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~S.}\ \bibnamefont
-  {Arnold}}, \bibinfo {author} {\bibfnamefont {J.~S.}\ \bibnamefont {Wilson}},
-  \bibinfo {author} {\bibfnamefont {M.~G.}\ \bibnamefont {Boshier}}, \ and\
-  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Smith}},\ }\href
-  {http://link.aip.org/link/?RSI/69/1236/1} {\bibfield  {journal} {\bibinfo
-  {journal} {Review of Scientific Instruments}\ }\textbf {\bibinfo {volume}
-  {69}},\ \unskip\ \bibinfo {pages} {1236--1239}3 (\bibinfo {year}
-  {1998})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Wieman}\ and\ \citenamefont
-  {Hollberg}(1991)}]{Reference2}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~E.}\ \bibnamefont
-  {Wieman}}\ and\ \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
-  {Hollberg}},\ }\href {http://link.aip.org/link/?RSI/62/1/1} {\bibfield
-  {journal} {\bibinfo  {journal} {Review of Scientific Instruments}\ }\textbf
-  {\bibinfo {volume} {62}},\ \unskip\ \bibinfo {pages} {1--20}1 (\bibinfo
-  {year} {1991})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Duffie}(2019)}]{duffie2019prone}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
