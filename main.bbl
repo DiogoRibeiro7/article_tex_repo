@@ -50,17 +50,13 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
-\bibitem [{\citenamefont {Zhou}\ \emph {et~al.}(2020)\citenamefont {Zhou},
-  \citenamefont {Shao}, \citenamefont {Zhang},\ and\ \citenamefont
-  {Chen}}]{article}%
+\bibitem [{\citenamefont {Rappaport}(2008)}]{rappaport2008consumption}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
-  {Zhou}}, \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Shao}}, \bibinfo
-  {author} {\bibfnamefont {X.}~\bibnamefont {Zhang}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {J.}~\bibnamefont {Chen}},\ }\href {\doibase
-  10.1016/j.landusepol.2019.104410} {\bibfield  {journal} {\bibinfo  {journal}
-  {Land Use Policy}\ }\textbf {\bibinfo {volume} {91}},\ p.\ \bibinfo {pages}
-  {104410}02 (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Rappaport}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Regional Science and Urban Economics}\ }\textbf {\bibinfo {volume} {38}},\
+  \unskip\ \bibinfo {pages} {533--552} (\bibinfo {year} {2008})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Mar{\^o}co}(2010)}]{Maroco2010}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
@@ -205,13 +201,6 @@
   \BibitemOpen
   \href {https://www.ine.pt} {\bibinfo {title} {Ine -- instituto nacional de
   estatística},\ }\  \bibinfo {year} {2019-20} \unskip\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Rappaport}(2008)}]{rappaport2008consumption}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Rappaport}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Regional Science and Urban Economics}\ }\textbf {\bibinfo {volume} {38}},\
-  \unskip\ \bibinfo {pages} {533--552} (\bibinfo {year} {2008})}\BibitemShut
-  {NoStop}%
 \bibitem [{\citenamefont {Calcagno}, \citenamefont {Fornero},\ and\
   \citenamefont {Rossi}(2009)}]{calcagno2009effect}%
   \BibitemOpen
@@ -461,6 +450,17 @@
   {Knaap}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal
   of Urban Economics}\ }\textbf {\bibinfo {volume} {54}},\ \unskip\ \bibinfo
   {pages} {218--238} (\bibinfo {year} {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zhou}\ \emph {et~al.}(2020)\citenamefont {Zhou},
+  \citenamefont {Shao}, \citenamefont {Zhang},\ and\ \citenamefont
+  {Chen}}]{article_zhou}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
+  {Zhou}}, \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Shao}}, \bibinfo
+  {author} {\bibfnamefont {X.}~\bibnamefont {Zhang}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Chen}},\ }\href {\doibase
+  10.1016/j.landusepol.2019.104410} {\bibfield  {journal} {\bibinfo  {journal}
+  {Land Use Policy}\ }\textbf {\bibinfo {volume} {91}},\ p.\ \bibinfo {pages}
+  {104410}02 (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Reis}(2001)}]{reis2001estatistica}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
