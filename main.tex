@@ -3,6 +3,8 @@
 \usepackage[numbers]{natbib}
 \usepackage{rotating}
 \usepackage{graphicx}
+\usepackage{threeparttable} % Include threeparttable package for notes
+\usepackage{breqn}
 
 % Document starts
 \begin{document}
@@ -62,27 +64,29 @@ In his research conducted in China, Xu (2017) indicates that when the housing su
 \section{Theoretical Framework for Multivariate Linear Regression Using Ordinary Least Squares}
 
 \subsection{Ordinary Least Squares Estimation}
-The Ordinary Least Squares (OLS) estimation technique is the cornerstone for conducting multivariate linear regression analysis. It estimates the parameters of a linear model that predicts a single response variable from multiple explanatory variables. The primary goal is to minimize the sum of the squares of the differences between the observed dependent variable and those predicted by the linear model.
+Maroco \cite{Maroco} the Ordinary Least Squares (OLS) estimation technique is the cornerstone for conducting multivariate linear regression analysis. It estimates the parameters of a linear model that predicts a single response variable from multiple explanatory variables. The primary goal is to minimize the sum of the squares of the differences between the observed dependent variable and those predicted by the linear model.
 
-\subsection{Model Specification}
+\subsubsection{Model Specification}
 The general form of the multivariate linear regression model is expressed as:
 \begin{equation}
     \mathbf{Y} = \mathbf{X\beta} + \boldsymbol{\epsilon}
 \end{equation}
 where $\mathbf{Y}$ is an $n \times 1$ vector of the dependent variable, $\mathbf{X}$ is an $n \times k$ matrix of independent variables for $n$ observations across $k$ predictors, $\boldsymbol{\beta}$ is a $k \times 1$ vector of regression coefficients to be estimated, and $\boldsymbol{\epsilon}$ is an $n \times 1$ vector of the residuals or errors of the model.
 
-\subsection{Estimation and Properties}
+\subsubsection{Estimation and Properties}
 The OLS estimator is given by:
 \begin{equation}
     \hat{\boldsymbol{\beta}} = (\mathbf{X'X})^{-1}\mathbf{X'Y}
 \end{equation}
 This estimator is known to be the Best Linear Unbiased Estimator (BLUE), provided that the Gauss-Markov theorem's assumptions are satisfied. These include the absence of perfect multicollinearity, homoscedasticity, and uncorrelated error terms with a zero conditional mean.
 
-\subsection{Goodness-of-Fit}
+\subsubsection{Goodness-of-Fit}
 The fit of the regression model is usually quantified by the coefficient of determination $R^2$, and the adjusted $R^2$ which provides a measure adjusted for the number of predictors. An F-test is used to determine the overall significance of the model parameters.
 
-\subsection{Assumptions Verification}
+\subsubsection{Assumptions Verification}
 Verifying the assumptions underlying the OLS estimator is crucial for the reliability of the model. This involves the examination of residuals for normality, constant variance (homoscedasticity), and independence. The Variance Inflation Factor (VIF) is used to assess the degree of multicollinearity among predictors.
+\subsubsection{Implications}
+The regression coefficients estimated from OLS regression reflect the average effect of one unit change in the independent variable on the dependent variable, with other variables held constant. The interpretation of these coefficients should consider the study design and data characteristics, especially since the presence of bias can arise from any violations of the OLS assumptions.
 
 \subsection{Generalization to Other Models}
 While OLS is traditionally applied to continuous and normally distributed response variables, the regression framework can be extended to models with non-normal response distributions or non-linear relationships. Such generalizations are termed Generalized Linear Models (GLM), which accommodate various types of data by linking a function of the mean of the response variable to the linear predictor through a link function.
@@ -93,7 +97,7 @@ The GLM is expressed as:
 \end{equation}
 where \(g(\cdot)\) is a monotonic and differentiable link function. This broadens the scope of regression analysis to include binary, count, and other types of outcomes by using appropriate link functions and distributional assumptions.
 
-\subsection{Implications}
+\subsubsection{Implications}
 The interpretation of estimated coefficients in the context of GLMs must account for the link function used. For instance, in logistic regression—a special case of GLM with a binary outcome—the coefficients represent the log odds of the outcome per unit change in the predictor, holding other predictors constant. As with OLS, the accurate interpretation of these models necessitates careful consideration of model assumptions and potential estimation biases.
 
 
@@ -171,23 +175,63 @@ PFH & 308 & 0.001 & 0.001 & 0.000 & 0.005 \\ % Row 11
 All variables, except location (NUTS I, II, and III), are continuous quantitative variables, reflecting the data's nature and the analytical approaches employed.
 
 
-    
-
-
-
-
-
-
-
-
-
-
 
 \subsection{Factors that affect the value of housing in Portugal}
 
-\begin{itemize}
-    \item Segundo modelo de regressão
-\end{itemize}
+\subsection{Regression Analysis of Housing Price Determinants in Portugal}
+
+We refined our regression model to elucidate the determinants of housing prices in Portuguese municipalities in 2017. Initially, we addressed multicollinearity by excluding the NUTS I and III location variables, given their redundancy with NUTS II within the model. The refined model leverages R and RStudio for computation and adheres to the following specification:
+
+\begin{dmath}
+    \ln(\text{VMPT}) =\ & \beta_0 + \beta_1 \times \text{NUTS II} + \beta_2 \times \text{DP} + \beta_3 \times \text{PCPC}\\
+    & + \beta_4 \times \text{DMF} + \beta_5 \times \text{DIEFP} + \beta_6 \times \text{IQA} + \beta_7 \times \text{IE} \\
+    & + \beta_8 \times \text{PCAS} + \beta_9 \times \text{PFHP} + \beta_{10} \times \text{PFH} + u_i
+\end{dmath}
+
+Where \( \ln(\text{VMPT}) \) is the natural logarithm of the median property transaction value. The independent variables in the model include NUTS II, unemployment (DP), purchasing power per capita (PCPC), and other regional demographic factors. The adjusted R-squared value of 0.7121 suggests that our model explains approximately 71.21\% of the variance in housing prices.
+
+A correlation analysis identified a high correlation between PCPC and the existence variable PES, leading to the latter's exclusion to avoid multicollinearity. The subsequent Ordinary Least Squares (OLS) estimation model was statistically significant with a \( p \)-value less than \( 2.2e-16 \), indicating that at least one independent variable contributes significantly to explaining the dependent variable. Despite the overall model significance, DP and IQA variables were not statistically significant at a 10\% significance level.
+
+To confirm the validity of the OLS estimators, we tested for normal distribution of residuals, absence of error autocorrelation, and homoscedasticity. The Breusch-Pagan test for homoscedasticity reported a \( p \)-value of 0.1269, indicating no evidence of heteroscedasticity. However, the Shapiro-Wilk test indicated a departure from normality (\( p \)-value = 0.002582), which is mitigated by the sample size allowing for normal approximation. The Durbin-Watson test showed evidence of autocorrelation with a \( p \)-value less than 0.002.
+
+Given these findings, we considered a Generalized Least Squares (GLS) model for robust estimation, which validated the absence of autocorrelation and homoscedasticity concerns. The estimated GLS model coefficients were presented as follows.
+
+\begin{table}[!ht]
+\centering
+\begin{threeparttable}
+\begin{tabular}{lcccc}
+\hline
+\textbf{Coefficient} & \textbf{Estimate} & \textbf{Std. Error} & \textbf{t value} & \textbf{$Pr(>|t|)$} \\
+\hline
+(Intercept) & 10.74110 & 0.894 & 15.149 & $< 0.0001 ***$ \\
+NUTSII & -0.12690 & 0.220 & -9.670 & $< 0.0001 ***$ \\
+DP & 0.00003 & 0.045 & 0.572 & 0.5674 \\
+PCPC & 0.00454 & 0.242 & 4.070 & $< 0.0001 ***$ \\
+DMF & 0.33442 & 0.217 & 4.616 & $< 0.0001 ***$ \\
+DIEFP & -0.01575 & 0.113 & -1.655 & $0.0989 .$ \\
+IQA & 0.35309 & 0.658 & -1.111 & 0.2686 \\
+IE & -0.00021 & 0.503 & -1.803 & $0.0724 .$ \\
+PCAS & 0.41720 & 1.150 & -4.746 & $< 0.0001 ***$ \\
+PFHP & -1.56822 & 0.562 & -5.825 & $< 0.0001 ***$ \\
+PFH & 62.04535 & 40.900 & 2.167 & $0.031 *$ \\
+\hline
+\end{tabular}
+\caption{GLS Estimation Model Coefficients}
+\label{tab:gls_model}
+\begin{tablenotes}
+\small
+\item Significance codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1
+\item Residual standard error: 0.3441522
+\item Degrees of freedom: 308 total; 297 residual
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
+
+
+The interpretation of the model suggests that location (NUTS II), purchasing power, family size, and ownership status significantly affect housing prices. The results are in line with literature and provide a robust foundation for understanding the housing market in Portugal.
+
+
 
 
 
