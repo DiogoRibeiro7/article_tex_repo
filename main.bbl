@@ -71,14 +71,9 @@
   {\bibfield  {journal} {\bibinfo  {journal} {Journal of Housing Economics}\
   }\textbf {\bibinfo {volume} {26}},\ \unskip\ \bibinfo {pages} {19--32}
   (\bibinfo {year} {2014}{\natexlab{a}})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Ferreira}(2021)}]{ferreira2021dinamica}%
+\bibitem [{fer()}]{ferreira2021dinamica}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~J.~A.}\
-  \bibnamefont {Ferreira}},\ }\enquote {\bibinfo {title} {Din{\^a}mica do
-  mercado imobili{\'a}rio: Fatores determinantes no valor das
-  habita{\c{c}}{\~o}es em portugal},}\ \href@noop {} {Ph.D. thesis},\ \bibinfo
-  {school} {Instituto Politecnico do Porto (Portugal)} \bibinfo {year}
-  {2021}\BibitemShut {NoStop}%
+  \href@noop {} {Ph.D. thesis}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Adair}, \citenamefont {Berry},\ and\ \citenamefont
   {McGreal}(1996)}]{adair1996hedonic}%
   \BibitemOpen

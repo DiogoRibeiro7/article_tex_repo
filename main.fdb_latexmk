@@ -1,13 +1,13 @@
 # Fdb version 4
 ["bibtex main"] 0 "main.aux" "main.bbl" "main" 0 -1
   "./aipnum-cp.bst" 1699358059 76321 98d9c190e9e61d0f2c2891fdbc2c673a ""
-  "./sample.bib" 1699633979 20807 085f9a66cf40f077dbb2c39cee66b450 ""
-  "main.aux" 1699637111 7242 ad0de54a3940b1a882da4c6ed10197d1 "pdflatex"
+  "./sample.bib" 1699638352 20819 301bbf8594a5b378e641d6fdfa877775 ""
+  "main.aux" 1699638364 7246 ab8a8014d736ff723247624545185b73 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1699637111 "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" "main.pdf" "main" 1699637112 2
+["pdflatex"] 1699638363 "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" "main.pdf" "main" 1699638364 2
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1699569920 82560 ef239c2cb0a12117bb5525d1036b4375 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1699285560 24186847 12d8f027a383120b3d56b7cb8728ac74 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc" 1698324500 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
@@ -92,11 +92,11 @@
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyb.fd" 1699353485 310 8c5467c8932c259af51b0f116c9734bd ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyc.fd" 1699353485 310 4b5d6fe830337242ef847b3bff48ba21 ""
   "/Users/diogoribeiro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1698324521 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" 1699637065 26348 6fd08299485b03c96033e88d2496573b ""
+  "/Users/diogoribeiro/work_code/personal/article_tex_repo/main.tex" 1699638267 26358 68a10a0ca7806b9644943d1ba90b0766 ""
   "aip-cp.cls" 1699353300 34293 19e04de8854ed49347766731bb009cba ""
-  "main.aux" 1699637111 7242 ad0de54a3940b1a882da4c6ed10197d1 "pdflatex"
-  "main.bbl" 1699635911 31744 d32a75d7eb24b0fb08abcedb8d933e81 "bibtex main"
-  "main.tex" 1699637065 26348 6fd08299485b03c96033e88d2496573b ""
+  "main.aux" 1699638364 7246 ab8a8014d736ff723247624545185b73 "pdflatex"
+  "main.bbl" 1699638353 31387 3b5a6c8c5ada3c4297d4fbf318a3cc5e "bibtex main"
+  "main.tex" 1699638267 26358 68a10a0ca7806b9644943d1ba90b0766 ""
   (generated)
   "main.aux"
   "main.log"
