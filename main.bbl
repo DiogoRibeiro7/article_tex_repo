@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year  (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{55}%
+\begin{thebibliography}{53}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -50,6 +50,22 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
+\bibitem [{\citenamefont {Zhou}\ \emph {et~al.}(2020)\citenamefont {Zhou},
+  \citenamefont {Shao}, \citenamefont {Zhang},\ and\ \citenamefont
+  {Chen}}]{article}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
+  {Zhou}}, \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Shao}}, \bibinfo
+  {author} {\bibfnamefont {X.}~\bibnamefont {Zhang}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Chen}},\ }\href {\doibase
+  10.1016/j.landusepol.2019.104410} {\bibfield  {journal} {\bibinfo  {journal}
+  {Land Use Policy}\ }\textbf {\bibinfo {volume} {91}},\ p.\ \bibinfo {pages}
+  {104410}02 (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Mar{\^o}co}(2010)}]{Maroco2010}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Mar{\^o}co}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {ReportNumber, Lda}\ } (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Duffie}(2019)}]{duffie2019prone}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
@@ -367,11 +383,6 @@
   {\bibinfo {title} {Multivariate Data Analysis}}},\ \bibinfo {number} {7}\
   (\bibinfo  {publisher} {New Jersey Pearson},\ \bibinfo {year}
   {2010})\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Mar{\^o}co}(2010)}]{Maroco2010}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Mar{\^o}co}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {ReportNumber, Lda}\ } (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Calmasur}(2016)}]{calmasur2016determining}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
@@ -450,37 +461,6 @@
   {Knaap}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal
   of Urban Economics}\ }\textbf {\bibinfo {volume} {54}},\ \unskip\ \bibinfo
   {pages} {218--238} (\bibinfo {year} {2003})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Zhou}\ \emph
-  {et~al.}(2020{\natexlab{a}})\citenamefont {Zhou}, \citenamefont {Shao},
-  \citenamefont {Zhang},\ and\ \citenamefont {Chen}}]{article}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
-  {Zhou}}, \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Shao}}, \bibinfo
-  {author} {\bibfnamefont {X.}~\bibnamefont {Zhang}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {J.}~\bibnamefont {Chen}},\ }\href {\doibase
-  10.1016/j.landusepol.2019.104410} {\bibfield  {journal} {\bibinfo  {journal}
-  {Land Use Policy}\ }\textbf {\bibinfo {volume} {91}},\ p.\ \bibinfo {pages}
-  {104410}02 (\bibinfo {year} {2020}{\natexlab{a}})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Zhou}\ \emph
-  {et~al.}(2020{\natexlab{b}})\citenamefont {Zhou}, \citenamefont {Shao},
-  \citenamefont {Zhang},\ and\ \citenamefont {Chen}}]{article2}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
-  {Zhou}}, \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Shao}}, \bibinfo
-  {author} {\bibfnamefont {X.}~\bibnamefont {Zhang}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {J.}~\bibnamefont {Chen}},\ }\href {\doibase
-  10.1016/j.landusepol.2019.104410} {\bibfield  {journal} {\bibinfo  {journal}
-  {Land Use Policy}\ }\textbf {\bibinfo {volume} {91}},\ p.\ \bibinfo {pages}
-  {104410}02 (\bibinfo {year} {2020}{\natexlab{b}})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Costa~e Silva}, \citenamefont {Correia},\ and\
-  \citenamefont {Borges}(2021)}]{silva2021clusters}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
-  {Costa~e Silva}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
-  {Correia}}, \ and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
-  {Borges}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Axioms
-  -- aceite para publicação}\ } (\bibinfo {year} {2021})}\BibitemShut
-  {NoStop}%
 \bibitem [{\citenamefont {Reis}(2001)}]{reis2001estatistica}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
